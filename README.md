@@ -3,7 +3,7 @@
 Programmieren für investigative Journalisten in einem 12-wöchigen Abendkurs von
 September bis Dezember 2017.
 
-# Ausgangslage
+## Ausgangslage
 Mit Programmierkenntnissen lernen Journalisten, in der digitalen Welt schneller
 zum Ziel zu kommen, neue Fragestellungen zu erarbeiten und sich loszulösen von
 unflexibler und teurer proprietärer Software. In diesem Abendkurs werden die
@@ -11,7 +11,7 @@ Teilnehmer über zwölf Wochen bei der digitalen Transformation begleitet und in
 die programmatisch und algorithmisch getriebene Open-Source-Community
 eingeführt.
 
-# Lernziele
+## Lernziele
 Der Kurs vermittelt Teilnehmenden einen Überblick in die Welt des Programmierens
 und den konkreten Programmiereinstieg mit Python. Am Ende des Kurses werden
 Teilnehmende in der Lage sein, grosse Datenmengen zu scrapen, zu reinigen und zu
@@ -20,7 +20,7 @@ können. Im Verlauf des Kurses werden Teilnehmende aktive Mitglieder der Open-
 Source-Community, mit deren Hilfe sie ihre neuen Coding-Kenntnisse weiter
 vertiefen können.
 
-# Lehrplan
+## Lehrplan
 1. Setup, Einführung in die Command Line und Github
 2. Jupyter Notebook, Einführung in Python: input, if-else, for-loops
 3. Python: variables, data types, lists, dictionaries, tuples
@@ -34,7 +34,7 @@ vertiefen können.
 11. Python: Natural Language Processing mit nltk
 12. Python: Eine Einführung in scikit learn und machine learning
 
-#### Format
+## Format
 12 wöchentliche doppelstündige Kurse, dazu Übungen. (Ja, es gibt Hausaufgaben!)
 Termine
 ...jeweils montags, 18.30 bis 20.30 Uhr
