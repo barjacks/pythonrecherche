@@ -9,5 +9,7 @@ Plattform genauso nutzten.
 an.
 - Nun wählen wir rechts oben Fork. Nun hast Du Deine "gegabelte" Version der
 Repo. Gratuliere! Gehen wir zurück auf die Commandline und geben folgendes ein:
-    //
-    git clone <Link auf Deinen Fork>
+    + _git clone Link auf Deinen Fork_
+  Jetzt hast Du eine Kopie des Kursmaterials auf Deinem
+
+  http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
