@@ -21,15 +21,15 @@ Source-Community, mit deren Hilfe sie ihre neuen Coding-Kenntnisse weiter
 vertiefen können.
 
 ## Lehrplan
- 1. Setup, Einführung in die Command Line und Github
- 2. Jupyter Notebook, .md, Einführung in Python: input, if-else, for-loops
- 3. variables, data types, lists, dictionaries, tuples
- 4. libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
- 5. Eigenen Scraper bauen mit BeautifulSoup
- 6. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
- 7. Arbeiten mit Text-Dokumenten und Regular Expressions
- 8. Die Plattformen Stackoverflow, Code-Review. Pandas I
- 9. Grosse Datenmengen analysieren, mit Pandas II
+01. Setup, Einführung in die Command Line und Github
+02. Jupyter Notebook, Markup, Einführung in Python: input, if-else, for-loops
+03. variables, data types, lists, dictionaries, tuples
+04. libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
+05. Eigenen Scraper bauen mit BeautifulSoup
+06. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
+07. Arbeiten mit Text-Dokumenten und Regular Expressions
+08. Die Plattformen Stackoverflow, Code-Review. Pandas I
+09. Grosse Datenmengen analysieren, mit Pandas II
 10. Grosse Datenmengen mit matplotlib plotten
 11. Natural Language Processing mit nltk
 12. Eine Einführung in scikit learn und machine learning
