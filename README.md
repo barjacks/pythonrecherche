@@ -11,9 +11,7 @@ Teilnehmer über zwölf Wochen bei der digitalen Transformation begleitet und in
 die programmatisch und algorithmisch getriebene Open-Source-Community
 eingeführt.
 
-Hier gehts zur Kurs-Anmeldung. Bitte bis spätestens 25. August 2017 anmelden.
-
-## Lernziele
+# Lernziele
 Der Kurs vermittelt Teilnehmenden einen Überblick in die Welt des Programmierens
 und den konkreten Programmiereinstieg mit Python. Am Ende des Kurses werden
 Teilnehmende in der Lage sein, grosse Datenmengen zu scrapen, zu reinigen und zu
@@ -22,10 +20,8 @@ können. Im Verlauf des Kurses werden Teilnehmende aktive Mitglieder der Open-
 Source-Community, mit deren Hilfe sie ihre neuen Coding-Kenntnisse weiter
 vertiefen können.
 
-
-
-Lehrplan
-I Einführung in die Command Line und Setup
+# Lehrplan
+1.  Einführung in die Command Line und Setup
 II Github und Jupyter Notebook
 III Python: variables, data types, lists, dictionaries, tuples
 IV Python: libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
