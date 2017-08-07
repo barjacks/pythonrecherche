@@ -20,22 +20,21 @@ können. Im Verlauf des Kurses werden Teilnehmende aktive Mitglieder der Open-
 Source-Community, mit deren Hilfe sie ihre neuen Coding-Kenntnisse weiter
 vertiefen können.
 
-# Lehrplan
-1.  Einführung in die Command Line und Setup
-II Github und Jupyter Notebook
-III Python: variables, data types, lists, dictionaries, tuples
-IV Python: libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
-V Python: Eigenen Scraper bauen mit BeautifulSoup
-VI Python: Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
-VII Python: Arbeiten mit Text-Dokumenten und Regular Expressions
-VIII Mehr Github und die Plattformen Stackoverflow, Code-Review
-IX Python: Grosse Datenmengen analysieren, mit pandas und agate
-X Python: Grosse Datenmengen mit matplotlib plotten
-XI Python: Natural Language Processing mit nltk
-XII: Python: Eine Einführung in scikit learn und machine learning
+# Lehrplan
+1. Setup, Einführung in die Command Line und Github
+2. Jupyter Notebook, Einführung in Python: input, if-else, for-loops
+3. Python: variables, data types, lists, dictionaries, tuples
+4. Python: libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
+5. Python: Eigenen Scraper bauen mit BeautifulSoup
+6. Python: Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
+7. Python: Arbeiten mit Text-Dokumenten und Regular Expressions
+8. Die Plattformen Stackoverflow, Code-Review. Pandas I
+9. Python: Grosse Datenmengen analysieren, mit Pandas II
+10. Python: Grosse Datenmengen mit matplotlib plotten
+11. Python: Natural Language Processing mit nltk
+12. Python: Eine Einführung in scikit learn und machine learning
 
-Änderungen am Kursprogramm sind vorbehalten.
-Format
+#### Format
 12 wöchentliche doppelstündige Kurse, dazu Übungen. (Ja, es gibt Hausaufgaben!)
 Termine
 ...jeweils montags, 18.30 bis 20.30 Uhr
