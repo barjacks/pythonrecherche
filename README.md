@@ -20,7 +20,7 @@ können. Im Verlauf des Kurses werden Teilnehmende aktive Mitglieder der Open-
 Source-Community, mit deren Hilfe sie ihre neuen Coding-Kenntnisse weiter
 vertiefen können.
 
-## Lehrplan
+## Lehrplan
 1. Setup, Einführung in die Command Line und Github
 2. Jupyter Notebook, .md, Einführung in Python: input, if-else, for-loops
 3. Python: variables, data types, lists, dictionaries, tuples
@@ -39,21 +39,22 @@ vertiefen können.
 Termine
 ...jeweils montags, 18.30 bis 20.30 Uhr
 
-4. September
-11. September
-18. September
-25. September
-1. Oktober
-9. Oktober - Herbstferien
-16. Oktober - Herbstferien
-23. Oktober
-30. Oktober
-6. November
-13. November
-20. November
-27. November
-4. Dezember
-11. Dezember - Ausweichtermin
+ 4.September       9.Oktober - Herbstferien     13.November
+11.September      16.Oktober - Herbstferien     20.November
+18.September      23.Oktober                    27.November
+25.September      30.Oktober                     4.Dezember
+ 1.Oktober         6.November                   11.Dezember - Ausweichtermin
+
+
+
+
+
+
+
+
+
+
+
 Ort
 Unterrichtet wird an der Münstergasse 9, Zürich.
 IT-Voraussetzungen
