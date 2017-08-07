@@ -21,18 +21,18 @@ Source-Community, mit deren Hilfe sie ihre neuen Coding-Kenntnisse weiter
 vertiefen können.
 
 ## Lehrplan
-1. Setup, Einführung in die Command Line und Github
-2. Jupyter Notebook, .md, Einführung in Python: input, if-else, for-loops
-3. Python: variables, data types, lists, dictionaries, tuples
-4. Python: libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
-5. Python: Eigenen Scraper bauen mit BeautifulSoup
-6. Python: Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
-7. Python: Arbeiten mit Text-Dokumenten und Regular Expressions
-8. Die Plattformen Stackoverflow, Code-Review. Pandas I
-9. Python: Grosse Datenmengen analysieren, mit Pandas II
-10. Python: Grosse Datenmengen mit matplotlib plotten
-11. Python: Natural Language Processing mit nltk
-12. Python: Eine Einführung in scikit learn und machine learning
+ 1. Setup, Einführung in die Command Line und Github
+ 2. Jupyter Notebook, .md, Einführung in Python: input, if-else, for-loops
+ 3. variables, data types, lists, dictionaries, tuples
+ 4. libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
+ 5. Eigenen Scraper bauen mit BeautifulSoup
+ 6. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
+ 7. Arbeiten mit Text-Dokumenten und Regular Expressions
+ 8. Die Plattformen Stackoverflow, Code-Review. Pandas I
+ 9. Grosse Datenmengen analysieren, mit Pandas II
+10. Grosse Datenmengen mit matplotlib plotten
+11. Natural Language Processing mit nltk
+12. Eine Einführung in scikit learn und machine learning
 
 ## Format
 12 wöchentliche doppelstündige Kurse, dazu Übungen. (Ja, es gibt Hausaufgaben!)
@@ -47,26 +47,20 @@ Termine
 |25. September |30. Oktober                | 4. Dezember                 |
 | 1. Oktober   | 6. November               |11. Dezember - Ausweichtermin|
 
-
-
-
-
-
-
-
-
-
-
-Ort
+## Ort
 Unterrichtet wird an der Münstergasse 9, Zürich.
-IT-Voraussetzungen
+
+## IT-Voraussetzungen
 MacBook oder Linux-Gerät (Die nötige Software mit Windows-Notebooks aufzusetzen, ist einfach zu kompliziert, sorry about that).
 
-Gruppengrösse
+## Gruppengrösse
 Maximal 6 Teilnehmer/Teilnehmerinnen
-Kursorganisation
+
+## Kursorganisation
 Sylke Gruhnwald, Reporterin Beobachter, sylke.gruhnwald@beobachter.ch
-Kursleitung
+
+## Kursleitung
 Barnaby Skinner, Datenjournalist SonntagsZeitung & Tages-Anzeiger, barnaby.skinner@sonntagszeitung.ch
-Kurskosten
+
+## Kurskosten
 900 CHF pro Teilnehmer/Teilnehmerin
