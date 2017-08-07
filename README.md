@@ -39,11 +39,11 @@ vertiefen können.
 Termine
 ...jeweils montags, 18.30 bis 20.30 Uhr
 
- 4.September       9.Oktober - Herbstferien     13.November
-11.September      16.Oktober - Herbstferien     20.November
-18.September      23.Oktober                    27.November
-25.September      30.Oktober                     4.Dezember
- 1.Oktober         6.November                   11.Dezember - Ausweichtermin
+| 4.September |9.Oktober - Herbstferien |13.November                 |
+|11.September |16.Oktober - Herbstferien|20.November                 |
+|18.September |23.Oktober               |27.November                 |  
+|25.September |30.Oktober               |4.Dezember                  |
+| 1.Oktober   |6.November               |11.Dezember - Ausweichtermin|
 
 
 
