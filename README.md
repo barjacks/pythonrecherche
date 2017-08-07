@@ -11,7 +11,7 @@ Teilnehmer über zwölf Wochen bei der digitalen Transformation begleitet und in
 die programmatisch und algorithmisch getriebene Open-Source-Community
 eingeführt.
 
-## Lernziele
+## Lernziele
 Der Kurs vermittelt Teilnehmenden einen Überblick in die Welt des Programmierens
 und den konkreten Programmiereinstieg mit Python. Am Ende des Kurses werden
 Teilnehmende in der Lage sein, grosse Datenmengen zu scrapen, zu reinigen und zu
@@ -22,7 +22,7 @@ vertiefen können.
 
 ## Lehrplan
 1. Setup, Einführung in die Command Line und Github
-2. Jupyter Notebook, Einführung in Python: input, if-else, for-loops
+2. Jupyter Notebook, .md, Einführung in Python: input, if-else, for-loops
 3. Python: variables, data types, lists, dictionaries, tuples
 4. Python: libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
 5. Python: Eigenen Scraper bauen mit BeautifulSoup
