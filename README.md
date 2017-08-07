@@ -39,6 +39,8 @@ vertiefen können.
 Termine
 ...jeweils montags, 18.30 bis 20.30 Uhr
 
+|Daten        |                         |                            |                               
+|-------------|-------------------------|----------------------------|
 | 4.September |9.Oktober - Herbstferien |13.November                 |
 |11.September |16.Oktober - Herbstferien|20.November                 |
 |18.September |23.Oktober               |27.November                 |  
