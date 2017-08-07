@@ -3,7 +3,7 @@
 Programmieren für investigative Journalisten in einem 12-wöchigen Abendkurs von
 September bis Dezember 2017.
 
-## Ausgangslage
+# Ausgangslage
 Mit Programmierkenntnissen lernen Journalisten, in der digitalen Welt schneller
 zum Ziel zu kommen, neue Fragestellungen zu erarbeiten und sich loszulösen von
 unflexibler und teurer proprietärer Software. In diesem Abendkurs werden die
