@@ -57,9 +57,9 @@ bedeutet es nicht, das es auf dem Gerät nicht ist.
 
 ## Anderes, praktisches
 
-* sed
-* awk
-* vi/vim
+* ```sed```
+* ```awk```
+* ```vi/vim```
 
 ## Escaping commands
 
