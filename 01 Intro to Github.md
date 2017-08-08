@@ -9,14 +9,17 @@ Plattform genauso nutzten.
 an.
 - Nun wählen wir rechts oben Fork. Nun hast Du Deine "gegabelte" Version der
 Repo. Gratuliere! Gehen wir zurück auf die Commandline und geben Folgendes ein,
-um Deine Kopie der Repo (Repository) auf Deinem Gerät zu haben:```_git clone
-'Link auf Deinen Fork'_```
+um Deine Kopie der Repo (Repository) auf Deinem Gerät zu haben:```git clone
+'Link auf Deinen Fork'```
 - Wenn Du nur für Dich an diesem Projekt arbeiten möchtest, wäre das Setup
 nun zu Ende. Wir können Änderungen vornehmen. Und dann mit folgenden Befehlen
 auf der Kommandozeile ausführen.
-    + Zuerst steuern wir mit ```_cd_``` in die Repo
+    + Zuerst steuern wir mit ```cd``` in die Repo
     + Dann geben wir folgendes ein ```git add .```, das ergänzt alles, was wir
     verändert haben
     + Dann schreiben wir dazu eine Mitteilung. ```git commit -m 'hello'```
     + Und dann schieben wir das auf Github. ```git push```
-- Doch wir wollen Code teilen, deshalb sind noch ein paar Schritte nötig.
+- Doch wir wollen Code teilen, deshalb sind noch ein paar Schritte nötig. Und
+das sieht komplizierter aus, als es ist. Zuerst müssen wir dem Computer sagen,
+wo die Original-Repo ist. Das tun wir mit folgender Eingabe in die
+Commandline: ```git remote add upstream 'link auf Orginal-Repo'```. 
