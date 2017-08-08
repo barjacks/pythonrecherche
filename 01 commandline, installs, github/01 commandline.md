@@ -49,6 +49,8 @@ bedeutet es nicht, das es auf dem Gerät nicht ist.
 * ```sort```: sorts the lines of a file
 * ```uniq```: removes duplicate adjacent lines of a file
 
+* Und **wichtig**: Mit diesem wunderbaren Zeichen kann man Befehle kombinieren: ```|```
+
 ## Lustiges
 
 * ```banner```
