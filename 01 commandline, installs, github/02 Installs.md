@@ -1,4 +1,4 @@
-# 01 Installs
+# 02 Installs
 
 Hier installieren wir Zusatzprogramme und bereiten den Computer darauf vor, dass
 er in Zukunft einfacher Zusatzpakete installieren kann. Den Terminal öffnen und

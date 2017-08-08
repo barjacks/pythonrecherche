@@ -1,4 +1,4 @@
-# 01 Intro to Github
+# 03 Intro to Github
 
 Github is eines von mehreren Plattformen, auf der Open-Source-Entwickler
 ihren Code tauschen und gemeinsam weiterentwickeln. Wir wollen diese
