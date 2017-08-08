@@ -1,6 +1,6 @@
 # 01 Command Line
 
-## Start
+## Start
 
 Bevor wir loslegen, müssen wir die Arbeit mit der Commandline kennenlernen. Sie
 ist so etwas wie unsere Hauptsteuerungszentrum. Von hier aus starten wir Programme,
@@ -9,14 +9,14 @@ auch unsere eigenen.
 In dieser Erklärung braucht ihr [] nicht anzuschrieben. Also ```cd [dirname]```
 bedeutet, dass ihr einfach ```cd documents```schreibt.
 
-## Wir sind faul
+## Wir sind faul
 
 * ↑ und ↓ scrollen uns zu alten Eingaben. Sehr nützlich.
 * Mit ```Tab``` können Sachen autocompleted werden. Probiert es aus.
 * Auf einem Mac könnte ihr auch mit Drag und Drop arbeiten, um Files und Folders
 hin und her zu bewegen.
 
-## Navigation
+## Navigation
 
 * ```pwd```: prints working directory — zeigt uns an, wo wir uns gerade befinden.
 * ```cd [dirname]```: changes directory, bewegt uns ins jeweilige Directory.
@@ -37,7 +37,7 @@ bedeutet es nicht, das es auf dem Gerät nicht ist.
 * ```curl -O [url]``` downloads a file, saving it
 * ```wget [url]``` downloads a file, saving it (yes, curl and wget are pretty similar)
 
-## Individuelle Files
+## Individuelle Files
 
 * ```cat [filename]```: displays the contents of a file
 * ```wc [filename]```: displays the word count of a file
@@ -49,7 +49,7 @@ bedeutet es nicht, das es auf dem Gerät nicht ist.
 * ```sort```: sorts the lines of a file
 * ```uniq```: removes duplicate adjacent lines of a file
 
-## Lustiges
+## Lustiges
 
 * ```banner```
 * ```cowsay```
