@@ -10,7 +10,9 @@ an.
 - Nun wählen wir rechts oben Fork. Nun hast Du Deine "gegabelte" Version der
 Repo. Gratuliere! Gehen wir zurück auf die Commandline und geben Folgendes ein,
 um Deine Kopie der Repo (Repository) auf Deinem Gerät zu haben:
+    ```
     + _git clone 'Link auf Deinen Fork'_
+    ```
 - Wenn Du nur für Dich an diesem Projekt arbeiten möchtest, wäre das Setup
 nun zu Ende. Wir können Änderungen vornehmen. Und dann mit folgenden Befehlen
 auf der Kommandozeile ausführen.
@@ -19,4 +21,4 @@ auf der Kommandozeile ausführen.
     verändert haben
     + Dann schreiben wir dazu eine Mitteilung. _git commit -m 'hello'_
     + Und dann schieben wir das auf Github. _git push_
-- Doch wir wollen Code teilen, deshalb sind noch ein paar Schritte nötig. 
+- Doch wir wollen Code teilen, deshalb sind noch ein paar Schritte nötig.
