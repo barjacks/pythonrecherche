@@ -1,4 +1,4 @@
-# Eine Einführung in Github
+# 01 Intro to Github
 
 Github is eines von mehreren Plattformen, auf der Open-Source-Entwickler
 ihren Code tauschen und gemeinsam weiterentwickeln. Wir wollen diese
@@ -54,7 +54,7 @@ Ordnung sorgen.
     Repo: ```git push origin master```
     + Und dann führen wir die Löschung wirklich durch: ```git push --delete
     origin <branch name>```
-    
+
 - Um Dein Fork schnell immer auf den neuesten Stand zu bringen, folgende
 Befehle eingeben:
     +```git pull upstream master```
