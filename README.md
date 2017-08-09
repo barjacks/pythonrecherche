@@ -22,8 +22,8 @@ vertiefen können.
 
 ## Lehrplan
 01. Setup, Einführung in die Command Line und Github
-02. Jupyter Notebook, Markup, Einführung in Python: input, if-else, for-loops
-03. variables, data types, lists, dictionaries, tuples
+02. Jupyter Notebook, Markdown, Einführung in Python I
+03. Einführung in Python II
 04. libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
 05. Eigenen Scraper bauen mit BeautifulSoup
 06. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
