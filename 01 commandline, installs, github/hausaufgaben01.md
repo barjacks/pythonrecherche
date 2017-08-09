@@ -2,6 +2,9 @@
 
 ## Commandline-Übungen
 
+0. Kopiere dieses File und speichere uns im Folder mit Deinem Namen ab.
+Öffne dieses File nun mit dem
+
 1. Öffne Deine Commandline und navigiere zum Desktop.
 
 Eingabe: _______
@@ -86,19 +89,20 @@ Eingabe: Auf Github.
 
 Eingabe: _______
 
-19. Speichere diese Hausaufgabe im Ordner mit Deinem Namen
+19. Checke eine Branch aus, auf der obersten Ebene des Ordners 'Pythonrecherche':
 
 Eingabe: _______
 
-20. Checke eine Branch aus, auf der obersten Ebene des Ordners 'Pythonrecherche':
-
-Eingabe: _______
-Eingabe: _______
 Eingabe: _______
 
-Nun auf der Github-Website einen so genannten Pull-Request kreieren, und
+Eingabe: _______
+
+Eingabe: _______
+
+20. Nun auf der Github-Website einen so genannten Pull-Request kreieren, und
 darauf warten, dass der Verwalter der Orginial-Repo die Änderungen absegnet
-und merged
+und merged und update Deine Repo, damit es ganz sicher auf dem neuesten Stand
+ist.
 
 Eingabe: _______
 
