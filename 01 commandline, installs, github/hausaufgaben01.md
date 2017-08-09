@@ -3,16 +3,20 @@
 ## Commandline-Übungen
 
 1. Öffne Deine Commandline und navigiere zum Desktop
+
 Eingabe: _______
 
 2. Von der Commandline, kreiere einen Order namens "Google Government Removal Requests"
+
 Eingabe: _______
 
 3. Navigiere in diesen Ordner
+
 Eingabe: _______
 
 4. Speichere [dieses Zip-File](https://storage.googleapis.com/transparencyreport/google-government-removals.zip) in den Ordner von der Commandline mit Wget ab. Vielleicht musst Du dafür zuerst Wget auf
 der Commandline installieren. Wenn Du nicht mehr weisst wie, google!
+
 Eingabe: _______
 
 5. Zeige den Inhalt des Ordners an
