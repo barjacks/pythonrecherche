@@ -2,8 +2,8 @@
 
 ## Commandline-Übungen
 
-0. Kopiere dieses File und speichere uns im Folder mit Deinem Namen ab.
-Öffne dieses File nun mit dem
+0. Kopiere dieses File und speichere es im Folder mit Deinem Namen ab.
+Öffne dieses File nun mit dem Programm Atom.
 
 1. Öffne Deine Commandline und navigiere zum Desktop.
 

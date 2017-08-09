@@ -57,9 +57,10 @@ bedeutet es nicht, das es auf dem Gerät nicht ist.
 * ```cowsay```
 * ```say```
 
-## Abspeihern
+## Abspeichern und Kombinieren
 
 * ```grep xyz 'file' > output.txt```
+* ```grep -E 'MyVariable = False|MyVariable = True' FormA.frm```
 
 ## Escaping commands
 
