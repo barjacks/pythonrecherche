@@ -57,11 +57,9 @@ bedeutet es nicht, das es auf dem Gerät nicht ist.
 * ```cowsay```
 * ```say```
 
-## Anderes, praktisches
+## Abspeihern
 
-* ```sed```
-* ```awk```
-* ```vi/vim```
+* ```grep xyz 'file' > output.txt```
 
 ## Escaping commands
 
