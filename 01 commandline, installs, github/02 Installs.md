@@ -45,7 +45,7 @@ und ```source ~/.bash_profile```.
 wieder eine ganze Reihe komplizierter Befehle:
 - ```echo 'export VIRTUALENVWRAPPER_PYTHON=$VIRTUALENV_PYTHON' >> ~/.bash_profile```
 - ```echo 'export WORKON_HOME=$HOME/.virtualenvs' >> ~/.bash_profile```
-- ```export VIRTUALENVWRAPPER_SH_PATH=`which virtualenvwrapper.sh```
+- ```export VIRTUALENVWRAPPER_SH_PATH=`which virtualenvwrapper.sh` ```
 - ```echo "source $VIRTUALENVWRAPPER_SH_PATH" >> ~/.bash_profile```
 - ```source ~/.bash_profile```
 
