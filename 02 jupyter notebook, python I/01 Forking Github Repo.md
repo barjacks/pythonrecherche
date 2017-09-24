@@ -43,3 +43,5 @@ Wenn Du den Link falsch setztes, kann Du den UpStream folgendermassen neu setzen
 8. Und dann machst Du mit ```git merge upstream/master``` das Update.
 
 9. Nun die Kurs-Materialien in euren eigenen Repo laden. Nicht in dieser Repo arbeiten!!!
+
+10. Falls es Probleme gibt, [stashen](https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me) 
