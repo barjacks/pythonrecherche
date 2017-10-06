@@ -26,13 +26,16 @@ vertiefen können.
 03. Einführung in Python II
 04. libraries und modules, mit einem Fokus auf requests, um APIs zu lesen
 05. Eigenen Scraper bauen mit BeautifulSoup
-06. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
-07. Arbeiten mit Text-Dokumenten und Regular Expressions
-08. Die Plattformen Stackoverflow, Code-Review. Pandas I
-09. Grosse Datenmengen analysieren, mit Pandas II
-10. Grosse Datenmengen mit matplotlib plotten
-11. Natural Language Processing mit nltk
-12. Eine Einführung in scikit learn und machine learning
+
+06. Rückblick mit Übungen, Beispiel-Websites scrapen
+07. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
+08. Arbeiten mit Text-Dokumenten und Regular Expressions
+09. Die Plattformen Stackoverflow, Code-Review. Pandas I
+10. Grosse Datenmengen analysieren, mit Pandas II
+11. Grosse Datenmengen mit matplotlib plotten
+12. Natural Language Processing mit nltk
+
+(Eine Einführung in scikit learn und machine learning)
 
 ## Format
 12 wöchentliche doppelstündige Kurse, dazu Übungen. (Ja, es gibt Hausaufgaben!)
