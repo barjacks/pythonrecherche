@@ -51,7 +51,7 @@ wieder eine ganze Reihe komplizierter Befehle:
 
 - So, und jetzt können wir virtuelle Umgebungen, virtual environments, kreieren.
 Versuche wir es mit diesem Befehl ```mkvirtualenv erstesVE```
-- Und dann ```wokron erstesVE```. Nun sollte in der Kommandozeile eine Anzeige
+- Und dann ```workon erstesVE```. Nun sollte in der Kommandozeile eine Anzeige
 auftauchen, dass Du Dich in einem virtual environment aufhälts, mit dem Namen
 VE. Von jetzt an brauchst Du auch nicht mehr ```pip3```zu schreiben, da ```pip```
 weiss, was er zu tun hat.

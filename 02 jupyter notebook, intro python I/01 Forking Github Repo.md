@@ -44,4 +44,9 @@ Wenn Du den Link falsch setztes, kann Du den UpStream folgendermassen neu setzen
 
 9. Nun die Kurs-Materialien in euren eigenen Repo laden. Nicht in dieser Repo arbeiten!!!
 
-10. Falls es Probleme gibt, [stashen](https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me) 
+10. Falls es Probleme gibt, [stashen](https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me)
+
+11. Um nun dafür zu sorgen, dass in Deinem Repository auf Github alles aktuell ist, musst Du die Inhalte dorthin pushen. Das tust Du mit dem gleichen Prozedere, wie oben.
+Zuerst: ```git add .```
+Dann: ```git commit -m 'deine Meldung'```
+Und schliesslich: ```git push```
