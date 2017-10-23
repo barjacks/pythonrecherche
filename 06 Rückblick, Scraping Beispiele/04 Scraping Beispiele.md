@@ -1,9 +1,9 @@
 # Scraping-Sites und Projekte:
 
-**Lauf-Rohdaten 1:** (Marina)
+**IAAF:** (Marina)
 IAAF | www.iaaf.org (International Association of Athletics Federations) Wie kann ich auf der Resultate-Liste die 100 besten Athleten scrapen von den letzten 10 Jahren?
 [Source](https://www.iaaf.org/records/toplists/sprints/100-metres/outdoor/men/senior/2017)
-**Lauf-Rohdaten 2:** (Marina)
+**Silvesterlauf:** (Marina)
 Datasport | www.silvesterlauf.ch | Resultateliste vom Silvester lauf Zürich
 ich würde gerne ein kleines Porjekt machen zum Silvesterlauf, falls möglich.
 Hier interessiert es mich, wie ich die Datasport-Resultate scrapen kann.
