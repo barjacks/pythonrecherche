@@ -2,7 +2,7 @@
 
 **IAAF:** (Marina)
 IAAF | www.iaaf.org (International Association of Athletics Federations) Wie kann ich auf der Resultate-Liste die 100 besten Athleten scrapen von den letzten 10 Jahren?
-[Source](https://www.iaaf.org/records/toplists/sprints/100-metres/outdoor/men/senior/2017). [Example Notebook](https://github.com/barjacks/pythonrecherche/blob/master/06%20R%C3%BCckblick%2C%20Scraping%20Beispiele/05%20Scraping%20Beispiel%20IAAF.ipynb)
+[Source](https://www.iaaf.org/records/toplists/sprints/100-metres/outdoor/men/senior/2017). [Example Notebook](https://github.com/barjacks/pythonrecherche/blob/master/06%20R%C3%BCckblick%2C%20Scraping%20Beispiele/05%20Scraping%20Beispiel%20IAAF.ipynb).
 
 **Silvesterlauf:** (Marina)
 Datasport | www.silvesterlauf.ch | Resultateliste vom Silvester lauf Zürich
