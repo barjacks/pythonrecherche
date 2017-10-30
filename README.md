@@ -29,10 +29,10 @@ vertiefen können.
 
 06. Rückblick mit Übungen, Beispiel-Websites scrapen
 07. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
-08. Arbeiten mit Text-Dokumenten und Regular Expressions
-09. Die Plattformen Stackoverflow, Code-Review. Pandas I
-10. Grosse Datenmengen analysieren, mit Pandas II
-11. Grosse Datenmengen mit matplotlib plotten
+08. Die Plattformen Stackoverflow, Code-Review. Pandas I
+09. Grosse Datenmengen analysieren, mit Pandas II
+10. Grosse Datenmengen mit matplotlib plotten
+11. Arbeiten mit Text-Dokumenten und Regular Expressions
 12. Natural Language Processing mit nltk
 
 (Eine Einführung in scikit learn und machine learning)
