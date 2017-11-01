@@ -1,0 +1,1180 @@
+,Company,Date,Price,Share Total,Type
+0,ABB Ltd,30.10.2017,362'229.00,14'323,Purchase
+1,ABB Ltd,30.10.2017,304'289.00,12'032,Purchase
+2,ABB Ltd,30.10.2017,10'060.00,500,Purchase
+3,ABB Ltd,30.10.2017,10'060.00,500,Purchase
+4,Banque Cantonale Vaudoise,27.10.2017,10'620.00,15,Purchase
+5,Hypothekarbank Lenzburg AG,27.10.2017,26'700.00,6,Sale
+6,Leonteq AG,27.10.2017,123'500.00,2'000,Purchase
+7,ams AG,27.10.2017,3'816'075.00,2'190'000,Sale
+8,ams AG,27.10.2017,5'760'000.00,160'000,Purchase
+9,nebag ag,27.10.2017,33'518.50,3'118,Sale
+10,Leonteq AG,26.10.2017,4'961'000.00,82'000,Purchase
+11,Swissquote Group Holding Ltd,26.10.2017,4'639.38,787,Sale
+12,ams AG,26.10.2017,1'069'653.00,13'543,Sale
+13,Alpine Select AG,25.10.2017,53'627.00,3'290,Sale
+14,Schindler Holding AG,25.10.2017,1'113'112.00,5'000,Sale
+15,ams AG,25.10.2017,1'757'500.00,950'000,Sale
+16,ams AG,25.10.2017,1'440'000.00,40'000,Purchase
+17,dormakaba Holding AG,25.10.2017,392'000.00,400,Sale
+18,ams AG,24.10.2017,2'350'600.00,1'460'000,Sale
+19,nebag ag,24.10.2017,7'875.80,743,Sale
+20,Edisun Power Europe AG,23.10.2017,558.35,13,Purchase
+21,GAM Holding AG,20.10.2017,63'600.00,4'000,Purchase
+22,The Swatch Group AG,20.10.2017,149'500.00,2'000,Sale
+23,The Swatch Group AG,18.10.2017,256'040.60,3'418,Sale
+24,Jungfraubahn Holding AG,17.10.2017,39'600.00,1'200,Purchase
+25,Kühne + Nagel International AG,17.10.2017,840'000.00,5'000,Purchase
+26,Givaudan SA,16.10.2017,217'800.00,100,Sale
+27,Kuros Biosciences AG,16.10.2017,11'734.00,868,Sale
+28,RELIEF THERAPEUTICS Holding AG,16.10.2017,6'220.16,622'016,Sale
+29,Givaudan SA,13.10.2017,411'350.00,190,Sale
+30,LEM Holding SA,13.10.2017,55'099.00,40,Purchase
+31,Banque Cantonale Vaudoise,12.10.2017,148'720.00,208,Sale
+32,Groupe Minoteries SA,12.10.2017,3'697.50,10,Purchase
+33,LEM Holding SA,12.10.2017,54'660.00,40,Purchase
+34,Alpine Select AG,11.10.2017,52'712.00,3'290,Purchase
+35,Bossard Holding AG,11.10.2017,236'180.75,1'000,Sale
+36,Edisun Power Europe AG,11.10.2017,461.00,11,Purchase
+37,Kuros Biosciences AG,11.10.2017,816.00,60,Sale
+38,nebag ag,11.10.2017,31'206.40,2'944,Sale
+39,Investis Holding SA,10.10.2017,68'528.25,1'197,Purchase
+40,Swissquote Group Holding Ltd,10.10.2017,7'811.47,1'203,Sale
+41,Altin AG,09.10.2017,827.00,75,Purchase
+42,Berner Kantonalbank,09.10.2017,37'000.00,200,Sale
+43,Jungfraubahn Holding AG,09.10.2017,24'750.00,750,Purchase
+44,Newron Pharmaceuticals S.p.A.,09.10.2017,71'500.00,5'000,Purchase
+45,nebag ag,09.10.2017,12'269.65,1'163,Sale
+46,Edmond de Rothschild (Suisse) S.A.,06.10.2017,5'380'300.00,311,Purchase
+47,LumX Group Limited,06.10.2017,9'000.00,50'000,Purchase
+48,nebag ag,06.10.2017,4'747.50,450,Sale
+49,Jungfraubahn Holding AG,05.10.2017,91'168.00,704,Sale
+50,Straumann Holding AG,05.10.2017,66'000.00,100,Sale
+51,Alpine Select AG,04.10.2017,32'228.00,2'042,Purchase
+52,Barry Callebaut AG,04.10.2017,486'020.00,324,Sale
+53,IVF Hartmann Holding AG,04.10.2017,388'278.55,2'000,Sale
+54,Jungfraubahn Holding AG,04.10.2017,24'750.00,750,Purchase
+55,dormakaba Holding AG,04.10.2017,9'832.50,10,Purchase
+56,Bâloise Holding AG,03.10.2017,171'538.40,1'111,Purchase
+57,Jungfraubahn Holding AG,03.10.2017,24'750.00,750,Purchase
+58,LumX Group Limited,03.10.2017,7'500.00,50'000,Purchase
+59,Tamedia AG,03.10.2017,29'940.90,211,Sale
+60,nebag ag,03.10.2017,19'170.00,1'800,Sale
+61,Kühne + Nagel International AG,02.10.2017,1'177'000.50,6'500,Sale
+62,Thurgauer Kantonalbank,02.10.2017,19'780.00,200,Purchase
+63,dormakaba Holding AG,02.10.2017,9'920.30,10,Purchase
+64,Bâloise Holding AG,30.09.2017,7'700.00,100,Purchase
+65,Bâloise Holding AG,30.09.2017,7'700.00,100,Purchase
+66,Altin AG,29.09.2017,6'548.00,600,Purchase
+67,Compagnie Financière Richemont SA,29.09.2017,44'875.76,1'334,Sale
+68,Feintool International Holding AG,29.09.2017,64'732'500.00,616'500,Sale
+69,LumX Group Limited,29.09.2017,9'000.00,50'000,Purchase
+70,dormakaba Holding AG,29.09.2017,9'758.15,10,Purchase
+71,mobilezone holding ag,29.09.2017,24'500.00,2'000,Purchase
+72,Edisun Power Europe AG,28.09.2017,2'549.70,62,Purchase
+73,INFICON Holding AG,28.09.2017,125'500.00,400,Sale
+74,Kardex AG,28.09.2017,20'801.96,195,Purchase
+75,LEM Holding SA,28.09.2017,57'728.00,47,Purchase
+76,VZ Holding AG,28.09.2017,105'590.65,563,Sale
+77,u-blox Holding AG,28.09.2017,184'000.00,1'000,Sale
+78,Bellevue Group AG,27.09.2017,51'163.20,2'273,Sale
+79,LEM Holding SA,27.09.2017,55'124.00,46,Purchase
+80,Tamedia AG,27.09.2017,31'248.00,217,Sale
+81,ARYZTA AG,26.09.2017,118'055.23,4'000,Purchase
+82,Altin AG,26.09.2017,5'696.00,522,Purchase
+83,Bellevue Group AG,26.09.2017,6'322.50,281,Sale
+84,Chocoladefabriken Lindt & Sprüngli AG,26.09.2017,204'000.00,3,Sale
+85,Leonteq AG,26.09.2017,4'056.50,70,Sale
+86,Orascom Development Holding AG,26.09.2017,48'360.00,6'200,Purchase
+87,Bellevue Group AG,25.09.2017,36'045.00,1'602,Sale
+88,Jungfraubahn Holding AG,25.09.2017,62'950.00,500,Sale
+89,Kühne + Nagel International AG,25.09.2017,2'658'977.00,14'740,Sale
+90,Straumann Holding AG,25.09.2017,126'000.00,200,Sale
+91,Zuger Kantonalbank AG,25.09.2017,73'065.05,14,Sale
+92,COLTENE Holding AG,22.09.2017,23'125.00,250,Purchase
+93,Hypothekarbank Lenzburg AG,22.09.2017,13'440.00,3,Sale
+94,Kühne + Nagel International AG,22.09.2017,947'878.00,5'260,Sale
+95,Vontobel Holding AG,22.09.2017,4'917.90,78,Sale
+96,Bellevue Group AG,21.09.2017,112'995.00,5'022,Sale
+97,Galenica AG,21.09.2017,2'512.00,80,Purchase
+98,Galenica AG,21.09.2017,2'512.00,80,Purchase
+99,Hypothekarbank Lenzburg AG,21.09.2017,40'320.00,9,Sale
+100,Kühne + Nagel International AG,21.09.2017,900'000.00,5'000,Sale
+101,Vontobel Holding AG,21.09.2017,315'500.00,5'000,Sale
+102,Bucher Industries AG,20.09.2017,1'091'031.25,3'125,Sale
+103,Hypothekarbank Lenzburg AG,20.09.2017,76'160.00,17,Sale
+104,LEM Holding SA,20.09.2017,54'153.00,43,Purchase
+105,Vontobel Holding AG,20.09.2017,253'336.00,4'000,Sale
+106,Komax Holding AG,19.09.2017,120'120.00,440,Sale
+107,Santhera Pharmaceuticals Holding AG,19.09.2017,150'878.00,4'000,Sale
+108,VZ Holding AG,19.09.2017,109'530.00,600,Sale
+109,Vontobel Holding AG,19.09.2017,110'681.00,1'743,Sale
+110,Ascom Holding AG,18.09.2017,176'640.00,9'200,Purchase
+111,Interroll Holding AG,18.09.2017,50'000.00,39,Purchase
+112,Komax Holding AG,18.09.2017,113'820.00,420,Sale
+113,Tornos Holding AG,18.09.2017,16'295.00,2'858,Sale
+114,Bossard Holding AG,15.09.2017,340'450.00,1'572,Sale
+115,Investis Holding SA,15.09.2017,84'976.00,1'504,Purchase
+116,RELIEF THERAPEUTICS Holding AG,15.09.2017,283.00,28'300,Sale
+117,Santhera Pharmaceuticals Holding AG,15.09.2017,50'000.00,1'250,Purchase
+118,Swiss Life Holding AG,15.09.2017,670'664.70,2'000,Sale
+119,Varia US Properties AG,15.09.2017,19'300.00,500,Purchase
+120,Von Roll Holding AG,15.09.2017,2'646'000.00,1'800'000,Sale
+121,Julius Bär Gruppe AG,14.09.2017,1'649'000.00,30'000,Sale
+122,VZ Holding AG,14.09.2017,297.00,1,Sale
+123,Vontobel Holding AG,14.09.2017,248'114.00,4'000,Sale
+124,Komax Holding AG,13.09.2017,136'000.00,500,Sale
+125,Partners Group Holding AG,13.09.2017,1'239'215.03,2'748,Sale
+126,VZ Holding AG,13.09.2017,99'288.00,336,Sale
+127,Vontobel Holding AG,13.09.2017,123'500.00,2'000,Sale
+128,Edisun Power Europe AG,12.09.2017,10'500.00,250,Purchase
+129,Hypothekarbank Lenzburg AG,12.09.2017,53'760.00,12,Sale
+130,Leonteq AG,12.09.2017,33'889.00,584,Sale
+131,Molecular Partners Ltd,12.09.2017,964'964.00,37'114,Sale
+132,Molecular Partners Ltd,12.09.2017,178'747.80,77'380,Purchase
+133,Molecular Partners Ltd,12.09.2017,115'199.70,49'870,Purchase
+134,Vontobel Holding AG,12.09.2017,368'670.00,6'000,Sale
+135,Comet Holding AG,11.09.2017,69'145.00,500,Sale
+136,Julius Bär Gruppe AG,11.09.2017,1'624'500.00,30'000,Sale
+137,Logitech International S.A.,11.09.2017,225'779.50,6'670,Purchase
+138,Logitech International S.A.,11.09.2017,168'664.79,4'982,Purchase
+139,Logitech International S.A.,11.09.2017,165'719.42,4'895,Purchase
+140,Novartis AG,11.09.2017,406'500.00,5'000,Sale
+141,Züblin Immobilien Holding AG,11.09.2017,2'678.00,100,Purchase
+142,Chocoladefabriken Lindt & Sprüngli AG,08.09.2017,110'835.00,20,Sale
+143,HIAG Immobilien Holding AG,08.09.2017,10'120.00,88,Purchase
+144,Tamedia AG,08.09.2017,5'197.00,35,Sale
+145,Ascom Holding AG,07.09.2017,14'922.00,803,Sale
+146,Comet Holding AG,07.09.2017,12'240.00,90,Sale
+147,INFICON Holding AG,07.09.2017,56'650.00,200,Sale
+148,Tamedia AG,07.09.2017,4'158.00,28,Sale
+149,Calida Holding AG,06.09.2017,19'939.20,536,Purchase
+150,HIAG Immobilien Holding AG,06.09.2017,8'943.40,78,Purchase
+151,INFICON Holding AG,06.09.2017,18'921.00,68,Sale
+152,Straumann Holding AG,06.09.2017,1'215'240.00,2'000,Purchase
+153,UBS Group AG,06.09.2017,985'094.60,63'922,Sale
+154,Altin AG,05.09.2017,5'019.00,466,Purchase
+155,HBM Healthcare Investments AG,05.09.2017,146'006.90,1'300,Purchase
+156,Hypothekarbank Lenzburg AG,05.09.2017,40'320.00,9,Sale
+157,Komax Holding AG,05.09.2017,532'000.00,2'000,Sale
+158,LEM Holding SA,05.09.2017,47'169.00,40,Purchase
+159,Myriad Group AG,05.09.2017,25'000.00,50'000,Purchase
+160,Myriad Group AG,05.09.2017,22'500.00,45'000,Purchase
+161,Tamedia AG,05.09.2017,7'276.00,49,Sale
+162,Bossard Holding AG,04.09.2017,208'072.40,1'000,Sale
+163,HIAG Immobilien Holding AG,04.09.2017,2'469.30,22,Purchase
+164,LEM Holding SA,04.09.2017,47'052.00,40,Purchase
+165,Varia US Properties AG,04.09.2017,51'825.20,1'250,Purchase
+166,Ypsomed Holding AG,04.09.2017,21'777.10,150,Sale
+167,Allreal Holding AG,01.09.2017,589'860.00,3'390,Sale
+168,Comet Holding AG,01.09.2017,70'518.00,500,Sale
+169,Komax Holding AG,01.09.2017,265'000.00,1'000,Sale
+170,Siegfried Holding AG,01.09.2017,924'750.00,3'000,Sale
+171,Straumann Holding AG,01.09.2017,1'002'780.00,1'620,Sale
+172,VZ Holding AG,01.09.2017,111'931.00,378,Sale
+173,Bâloise Holding AG,31.08.2017,153'300.00,1'000,Sale
+174,Comet Holding AG,31.08.2017,40'536.00,300,Sale
+175,INFICON Holding AG,31.08.2017,13'362.50,50,Sale
+176,Kardex AG,31.08.2017,27'877.10,277,Sale
+177,Nestlé AG,31.08.2017,487'200.00,6'000,Sale
+178,Straumann Holding AG,31.08.2017,1'298'880.00,2'112,Sale
+179,Vontobel Holding AG,31.08.2017,45'264.00,736,Sale
+180,APG SGA SA,30.08.2017,71'190.00,180,Purchase
+181,Comet Holding AG,30.08.2017,52'474.00,400,Sale
+182,Schaffner Holding AG,30.08.2017,44'000.00,500,Sale
+183,Siegfried Holding AG,30.08.2017,934'076.00,3'124,Sale
+184,Siegfried Holding AG,30.08.2017,155'496.00,528,Purchase
+185,Sonova Holding AG,30.08.2017,94'543.18,588,Sale
+186,nebag ag,30.08.2017,10'500.00,1'000,Sale
+187,APG SGA SA,29.08.2017,16'590.00,42,Purchase
+188,Bellevue Group AG,29.08.2017,41'697.00,2'034,Purchase
+189,Hochdorf Holding AG,29.08.2017,7'860.25,30,Purchase
+190,RELIEF THERAPEUTICS Holding AG,29.08.2017,13.45,1'315,Sale
+191,nebag ag,29.08.2017,132'877.50,12'655,Sale
+192,Bossard Holding AG,28.08.2017,102'500.00,500,Sale
+193,Edisun Power Europe AG,28.08.2017,24'525.00,500,Purchase
+194,Hochdorf Holding AG,28.08.2017,2'662.50,10,Purchase
+195,RELIEF THERAPEUTICS Holding AG,28.08.2017,4'655.00,465'500,Sale
+196,AEVIS VICTORIA SA,25.08.2017,1'044'341.96,17'629,Purchase
+197,Edisun Power Europe AG,25.08.2017,15'183.10,298,Purchase
+198,Hypothekarbank Lenzburg AG,25.08.2017,278'159.00,62,Sale
+199,LEM Holding SA,25.08.2017,48'658.00,40,Purchase
+200,Sonova Holding AG,25.08.2017,68'007.20,1'000,Sale
+201,VAT Group AG,25.08.2017,516'360.00,4'000,Sale
+202,VZ Holding AG,25.08.2017,145'925.00,487,Sale
+203,nebag ag,25.08.2017,57'318.78,5'447,Sale
+204,Banque Cantonale de Genève,24.08.2017,64'240.00,400,Sale
+205,Edisun Power Europe AG,24.08.2017,510'180.00,17'006,Purchase
+206,LEM Holding SA,24.08.2017,48'326.00,40,Purchase
+207,VP Bank AG,24.08.2017,55'382.60,442,Sale
+208,VZ Holding AG,24.08.2017,99'662.50,335,Purchase
+209,Vontobel Holding AG,24.08.2017,618'472.85,10'000,Sale
+210,Arbonia AG,23.08.2017,6'329.30,379,Purchase
+211,LEM Holding SA,23.08.2017,48'636.00,40,Purchase
+212,Temenos Group AG,23.08.2017,255'351.25,2'695,Sale
+213,nebag ag,23.08.2017,44'344.75,4'215,Sale
+214,Bossard Holding AG,22.08.2017,146'770.10,700,Sale
+215,Bossard Holding AG,22.08.2017,208'067.10,1'000,Sale
+216,Gurit Holding AG,22.08.2017,55'200.00,50,Sale
+217,Meyer Burger Technology AG,22.08.2017,94'363.48,67'010,Sale
+218,Peach Property Group AG,22.08.2017,129'900.00,8'314,Purchase
+219,Peach Property Group AG,22.08.2017,34'792.00,2'227,Purchase
+220,Peach Property Group AG,22.08.2017,20'893.00,1'337,Purchase
+221,Temenos Group AG,22.08.2017,5'211.25,55,Sale
+222,Vontobel Holding AG,22.08.2017,1'201'700.00,19'700,Sale
+223,Gurit Holding AG,21.08.2017,564'736.00,500,Sale
+224,Rieter Holding AG,21.08.2017,149'100.00,700,Sale
+225,Sonova Holding AG,21.08.2017,178'551.00,4'590,Sale
+226,VZ Holding AG,21.08.2017,99'243.75,335,Sale
+227,Altin AG,18.08.2017,4'673.00,421,Purchase
+228,Bellevue Group AG,18.08.2017,40'433.40,1'977,Purchase
+229,Walliser Kantonalbank,18.08.2017,7'560.00,120,Purchase
+230,Walliser Kantonalbank,18.08.2017,7'560.00,120,Purchase
+231,Walliser Kantonalbank,18.08.2017,7'560.00,120,Purchase
+232,Hochdorf Holding AG,17.08.2017,21'075.00,75,Purchase
+233,Hypothekarbank Lenzburg,17.08.2017,92'000.00,40,Purchase
+234,Meyer Burger Technology AG,17.08.2017,14'632.65,10'457,Sale
+235,Swiss Re AG,17.08.2017,264'300.00,3'000,Purchase
+236,VZ Holding AG,17.08.2017,98'835.00,330,Sale
+237,Compagnie Financière Tradition S.A.,16.08.2017,1'760'000.00,20'000,Sale
+238,Tornos Holding AG,16.08.2017,28'264.05,5'000,Sale
+239,Bellevue Group AG,15.08.2017,56'867.00,2'774,Purchase
+240,Swissquote Group Holding Ltd,15.08.2017,692.50,1'385,Sale
+241,Swissquote Group Holding Ltd,15.08.2017,811.75,1'385,Sale
+242,Swissquote Group Holding Ltd,15.08.2017,421.20,500,Sale
+243,VZ Holding AG,15.08.2017,99'054.25,320,Sale
+244,DUFRY AG,14.08.2017,500'240.00,20,Purchase
+245,VZ Holding AG,14.08.2017,48'565.00,155,Sale
+246,Bellevue Group AG,11.08.2017,116'506.15,5'750,Purchase
+247,HBM Healthcare Investments AG,11.08.2017,206'740.15,1'814,Purchase
+248,Kühne + Nagel International AG,11.08.2017,302'178.15,1'800,Purchase
+249,RELIEF THERAPEUTICS Holding AG,11.08.2017,5'000.00,500'000,Sale
+250,Bellevue Group AG,10.08.2017,34'830.05,1'702,Purchase
+251,Sonova Holding AG,10.08.2017,177'779.10,3'000,Sale
+252,Bellevue Group AG,09.08.2017,200'148.55,9'908,Purchase
+253,Swissquote Group Holding Ltd,09.08.2017,282'559.37,9'865,Purchase
+254,Bucher Industries AG,08.08.2017,174'616.00,485,Sale
+255,INFICON Holding AG,08.08.2017,13'137.50,50,Sale
+256,RELIEF THERAPEUTICS Holding AG,08.08.2017,10'000.00,1'000'000,Sale
+257,Zuger Kantonalbank AG,08.08.2017,41'924.30,8,Sale
+258,LEM Holding SA,07.08.2017,48'389.00,40,Purchase
+259,AEVIS VICTORIA SA,04.08.2017,1'447'941.00,24'650,Purchase
+260,Logitech International S.A.,04.08.2017,1'355'478.95,38'806,Sale
+261,Autoneum Holding AG,03.08.2017,43'686.40,189,Purchase
+262,CPH Chemie + Papier Holding AG,03.08.2017,140'400.00,2'600,Sale
+263,INFICON Holding AG,03.08.2017,42'849.00,81,Sale
+264,Logitech International S.A.,03.08.2017,779'731.56,22'309,Sale
+265,Autoneum Holding AG,02.08.2017,93'467.44,400,Sale
+266,Bossard Holding AG,02.08.2017,106'351.10,500,Sale
+267,Credit Suisse Group AG,02.08.2017,539'584.00,36'484,Sale
+268,Logitech International S.A.,02.08.2017,1'730'361.00,49'215,Sale
+269,Walliser Kantonalbank,02.08.2017,10'668.00,112,Sale
+270,nebag ag,02.08.2017,21'300.00,2'000,Sale
+271,Autoneum Holding AG,31.07.2017,1'160'868.60,5'000,Purchase
+272,Logitech International S.A.,31.07.2017,484'394.00,13'804,Sale
+273,Roche Holding AG,31.07.2017,203'016.50,815,Purchase
+274,ams AG,31.07.2017,697'750.00,10'000,Sale
+275,Altin AG,28.07.2017,6'534.00,600,Purchase
+276,Autoneum Holding AG,28.07.2017,20'200.00,20'000,Purchase
+277,Groupe Minoteries SA,28.07.2017,1'848.75,5,Purchase
+278,EFG International,27.07.2017,,93'837,Purchase
+279,EFG International,27.07.2017,,17'523,Purchase
+280,SGS SA,27.07.2017,151'481.00,75'000,Sale
+281,SGS SA,27.07.2017,405'685.00,185,Purchase
+282,Ypsomed Holding AG,27.07.2017,10'395.00,70,Purchase
+283,Walliser Kantonalbank,26.07.2017,29'512.00,310,Purchase
+284,Leonteq AG,25.07.2017,4'100'000.00,70'690,Sale
+285,nebag ag,25.07.2017,54'000.00,4'800,Sale
+286,Kühne + Nagel International AG,24.07.2017,829'584.00,5'000,Sale
+287,Panalpina World Transport (Holding) Ltd.,24.07.2017,277'685.60,2'300,Sale
+288,nebag ag,24.07.2017,54'450.00,4'840,Sale
+289,Panalpina World Transport (Holding) Ltd.,21.07.2017,498'657.20,4'000,Sale
+290,Ypsomed Holding AG,21.07.2017,15'654'521.00,111'500,Purchase
+291,Ypsomed Holding AG,21.07.2017,4'366'498.50,31'500,Purchase
+292,nebag ag,21.07.2017,40'680.00,3'600,Sale
+293,Kühne + Nagel International AG,20.07.2017,508'350.00,3'000,Sale
+294,nebag ag,20.07.2017,16'950.00,1'500,Sale
+295,Kühne + Nagel International AG,19.07.2017,3'537'838.58,20'808,Sale
+296,Datacolor AG,18.07.2017,5'955'750.00,7'941,Purchase
+297,Ypsomed Holding AG,18.07.2017,95'100.00,500,Sale
+298,Alpine Select AG,14.07.2017,15'100.00,1'000,Sale
+299,Bossard Holding AG,14.07.2017,102'000.00,500,Sale
+300,Hügli Holding AG,14.07.2017,37'776.50,48,Sale
+301,Castle Private Equity AG,13.07.2017,34'862.25,2'021,Sale
+302,Santhera Pharmaceuticals Holding AG,13.07.2017,69'866.05,1'000,Sale
+303,Schaffner Holding AG,13.07.2017,49'000.00,500,Sale
+304,nebag ag,13.07.2017,39'375.00,3'500,Sale
+305,Tamedia AG,12.07.2017,64'955.00,428,Purchase
+306,KTM Industries AG,11.07.2017,5'180'000.00,1'000'000,Sale
+307,LEM Holding SA,11.07.2017,117'651.00,100,Purchase
+308,Castle Private Equity AG,10.07.2017,16'887.75,979,Sale
+309,Tamedia AG,10.07.2017,13'660.00,91,Purchase
+310,Castle Private Equity AG,07.07.2017,59'325.00,3'500,Sale
+311,Hügli Holding AG,07.07.2017,42'365.50,53,Sale
+312,Idorsia Ltd,07.07.2017,30'621'900.00,1'531'095,Purchase
+313,Chocoladefabriken Lindt & Sprüngli AG,06.07.2017,5'498.64,1,Sale
+314,HIAG Immobilien Holding AG,06.07.2017,40'293.00,333,Purchase
+315,Hügli Holding AG,06.07.2017,7'191.00,9,Sale
+316,Sonova Holding AG,06.07.2017,99'009.30,2'067,Sale
+317,Idorsia Ltd,05.07.2017,25'727'015.00,1'290'398,Purchase
+318,Edisun Power Europe AG,04.07.2017,431.60,8,Purchase
+319,Swiss Finance & Property Investment AG,04.07.2017,14'565.00,19'420,Sale
+320,AEVIS VICTORIA SA,03.07.2017,25'028.00,429,Purchase
+321,AEVIS VICTORIA SA,03.07.2017,24'736.00,424,Purchase
+322,Edisun Power Europe AG,03.07.2017,1'676.00,30,Purchase
+323,HIAG Immobilien Holding AG,03.07.2017,40'626.00,333,Purchase
+324,Idorsia Ltd,03.07.2017,18'800'000.00,940'000,Purchase
+325,Schaffner Holding AG,03.07.2017,8'950.00,100,Sale
+326,Kudelski S.A.,30.06.2017,123'565.00,7'538,Sale
+327,Sonova Holding AG,30.06.2017,285'576.30,7'067,Sale
+328,Cham Paper Group Holding AG,29.06.2017,29'511.79,77,Purchase
+329,LEM Holding SA,29.06.2017,66'000.00,55,Purchase
+330,Idorsia Ltd,28.06.2017,1'580'000.00,100'000,Purchase
+331,LEM Holding SA,28.06.2017,107'972.00,90,Purchase
+332,LifeWatch AG,28.06.2017,7'496'000.00,495'248,Sale
+333,LifeWatch AG,28.06.2017,2'684'000.00,175'593,Sale
+334,Allreal Holding AG,27.06.2017,43'462.00,250,Purchase
+335,HIAG Immobilien Holding AG,27.06.2017,37'942.00,311,Purchase
+336,KTM Industries AG,27.06.2017,363'691.47,70'000,Purchase
+337,Perrot Duval Holding SA,27.06.2017,17'160.00,286,Purchase
+338,Ypsomed Holding AG,27.06.2017,198'873.20,1'000,Purchase
+339,Edisun Power Europe AG,26.06.2017,5'400.00,101,Purchase
+340,Idorsia Ltd,26.06.2017,549'119.00,35'427,Purchase
+341,Schindler Holding AG,26.06.2017,91'343.70,729,Sale
+342,Schindler Holding AG,26.06.2017,7'488.00,60,Purchase
+343,Galenica AG,23.06.2017,75'766.50,1'695,Purchase
+344,LEM Holding SA,23.06.2017,9'600.00,8,Purchase
+345,Swiss Finance & Property Investment AG,23.06.2017,453'851.02,602'959,Sale
+346,nebag ag,23.06.2017,261'250.00,25'000,Purchase
+347,Chocoladefabriken Lindt & Sprüngli AG,22.06.2017,837'800.00,142,Sale
+348,Galenica AG,22.06.2017,780'641.10,16'734,Purchase
+349,HIAG Immobilien Holding AG,22.06.2017,12'566.00,103,Purchase
+350,LEM Holding SA,22.06.2017,66'000.00,55,Purchase
+351,Santhera Pharmaceuticals Holding AG,22.06.2017,68'098.00,1'000,Purchase
+352,Dottikon ES Holding AG,21.06.2017,39'450.00,50,Sale
+353,HIAG Immobilien Holding AG,21.06.2017,1'000'400.00,8'200,Purchase
+354,HIAG Immobilien Holding AG,21.06.2017,327'692.00,2'686,Purchase
+355,LEM Holding SA,21.06.2017,2'400.00,2,Purchase
+356,nebag ag,21.06.2017,12'320.75,1'115,Sale
+357,Chocoladefabriken Lindt & Sprüngli AG,20.06.2017,118'200.00,20,Sale
+358,SGS SA,20.06.2017,91'781.00,25'160,Sale
+359,Schindler Holding AG,20.06.2017,120'083.50,1'400,Sale
+360,Swiss Life Holding AG,20.06.2017,436'809.20,1'300,Sale
+361,nebag ag,20.06.2017,12'011.35,1'087,Sale
+362,Bossard Holding AG,19.06.2017,102'312.00,500,Sale
+363,Castle Private Equity AG,19.06.2017,600.00,10'000,Sale
+364,Idorsia Ltd,19.06.2017,69'765'826.00,4'859'499,Purchase
+365,Nestlé AG,19.06.2017,659'661.00,21'300,Sale
+366,Schlatter Industries AG,19.06.2017,68'754.00,1'637,Sale
+367,Tornos Holding AG,19.06.2017,20'880.00,8'000,Purchase
+368,nebag ag,19.06.2017,21'138.65,1'913,Sale
+369,Banque Cantonale Vaudoise,16.06.2017,282'678.48,400,Sale
+370,Banque Cantonale de Genève,16.06.2017,48'125.80,308,Sale
+371,Basilea Pharmaceutica AG,16.06.2017,50'420.00,1'025,Sale
+372,Edisun Power Europe AG,16.06.2017,3'517.60,68,Purchase
+373,Nestlé AG,16.06.2017,164'700.00,2'000,Sale
+374,Walliser Kantonalbank,16.06.2017,35'132.65,391,Sale
+375,APG SGA SA,15.06.2017,178'780.00,380,Sale
+376,Burkhalter Holding AG,15.06.2017,275'626.40,2'000,Sale
+377,Evolva Holding SA,15.06.2017,55'200.00,120'000,Purchase
+378,Alpine Select AG,14.06.2017,57'720.00,3'900,Purchase
+379,Burkhalter Holding AG,14.06.2017,275'505.20,2'000,Sale
+380,Comet Holding AG,14.06.2017,11'950.00,100,Purchase
+381,Investis Holding SA,14.06.2017,74'859.05,1'253,Purchase
+382,Panalpina World Transport (Holding) Ltd.,14.06.2017,403'185.60,3'000,Sale
+383,SGS SA,14.06.2017,90'500.00,25'000,Sale
+384,Tornos Holding AG,14.06.2017,19'575.00,7'500,Purchase
+385,nebag ag,14.06.2017,6'525.00,600,Purchase
+386,Burkhalter Holding AG,13.06.2017,351'806.52,2'600,Sale
+387,EFG International,13.06.2017,10'326.70,1'790,Sale
+388,Investis Holding SA,13.06.2017,197'183.00,3'314,Purchase
+389,LEM Holding SA,13.06.2017,75'226.00,63,Purchase
+390,Sulzer AG,13.06.2017,111'300.00,1'000,Purchase
+391,nebag ag,13.06.2017,144'454.12,13'113,Sale
+392,Castle Private Equity AG,12.06.2017,279.51,3'993,Sale
+393,Compagnie Financière Richemont SA,12.06.2017,2'762'913.66,48'126,Sale
+394,Investis Holding SA,12.06.2017,25'882.50,435,Purchase
+395,LEM Holding SA,12.06.2017,116'907.00,100,Purchase
+396,Tornos Holding AG,12.06.2017,20'880.00,8'000,Purchase
+397,Burkhalter Holding AG,09.06.2017,1'350'000.00,10'000,Sale
+398,Burkhalter Holding AG,09.06.2017,1'350'000.00,10'000,Purchase
+399,Huber+Suhner AG,09.06.2017,70'000.00,1'000,Sale
+400,Kühne + Nagel International AG,09.06.2017,1'049'580.65,6'638,Sale
+401,nebag ag,09.06.2017,16'500.00,1'500,Sale
+402,Chocoladefabriken Lindt & Sprüngli AG,08.06.2017,228'150.00,39,Sale
+403,Datacolor AG,08.06.2017,43'700.00,53,Sale
+404,Investis Holding SA,08.06.2017,249'781.00,4'198,Purchase
+405,LEM Holding SA,08.06.2017,117'725.00,100,Purchase
+406,nebag ag,08.06.2017,6'985.00,635,Sale
+407,Altin AG,07.06.2017,23'275.00,1'868,Sale
+408,Chocoladefabriken Lindt & Sprüngli AG,07.06.2017,2'351'870.00,401,Sale
+409,Dottikon ES Holding AG,07.06.2017,10'485.00,15,Sale
+410,Kühne + Nagel International AG,07.06.2017,395'000.00,2'500,Sale
+411,Altin AG,06.06.2017,2'504.00,200,Sale
+412,Burkhalter Holding AG,06.06.2017,273'585.91,2'002,Sale
+413,Castle Private Equity AG,06.06.2017,87.50,1'750,Sale
+414,Chocoladefabriken Lindt & Sprüngli AG,06.06.2017,118'600.00,20,Sale
+415,Dottikon ES Holding AG,06.06.2017,73'035.00,105,Sale
+416,LEM Holding SA,06.06.2017,119'988.00,100,Purchase
+417,Roche Holding AG,06.06.2017,186'503.28,729,Purchase
+418,Walliser Kantonalbank,06.06.2017,18'239.55,203,Sale
+419,ABB Ltd,02.06.2017,148'260.00,6'000,Sale
+420,Castle Private Equity AG,02.06.2017,6'600.00,110'000,Sale
+421,LEM Holding SA,02.06.2017,103'223.00,86,Purchase
+422,SGS SA,02.06.2017,60'503.50,20'000,Sale
+423,Walliser Kantonalbank,02.06.2017,539.10,6,Sale
+424,nebag ag,02.06.2017,24'607.00,2'237,Sale
+425,Banque Cantonale Vaudoise,01.06.2017,209'199.00,300,Sale
+426,Calida Holding AG,01.06.2017,148'395.85,4'049,Sale
+427,Dätwyler Holding AG,01.06.2017,182'600.00,1'100,Sale
+428,Givaudan SA,01.06.2017,1'810'000.00,905,Sale
+429,Sonova Holding AG,01.06.2017,18'001.50,165,Purchase
+430,St. Galler Kantonalbank,01.06.2017,3'938.00,20,Purchase
+431,Sunrise Communications Group AG,01.06.2017,67'666.66,1,Purchase
+432,Vontobel Holding AG,01.06.2017,243'800.00,4'000,Sale
+433,APG SGA SA,31.05.2017,59'946.25,124,Sale
+434,Altin AG,31.05.2017,19'229.00,1'938,Purchase
+435,Burkhalter Holding AG,31.05.2017,563'739.20,4'000,Sale
+436,Credit Suisse Group AG,31.05.2017,655'862.40,60'728,Purchase
+437,Interroll Holding AG,31.05.2017,832'810.00,670,Sale
+438,Luzerner Kantonalbank,31.05.2017,2'189.63,5,Purchase
+439,Mikron Holding AG,31.05.2017,32'300.00,5'000,Sale
+440,Sunrise Communications Group AG,31.05.2017,469'125.00,5'806,Sale
+441,Adval Tech Holding AG,30.05.2017,11'076.00,39,Sale
+442,Altin AG,30.05.2017,89'070.00,8'793,Purchase
+443,Chocoladefabriken Lindt & Sprüngli AG,30.05.2017,116'600.00,20,Sale
+444,Compagnie Financière Tradition S.A.,30.05.2017,13'354.50,133,Purchase
+445,Compagnie Financière Tradition S.A.,30.05.2017,19'579'749.20,194'998,Purchase
+446,Compagnie Financière Tradition S.A.,30.05.2017,217'186.80,2'163,Purchase
+447,Compagnie Financière Tradition S.A.,30.05.2017,37'553.30,374,Purchase
+448,Compagnie Financière Tradition S.A.,30.05.2017,24'399.60,243,Purchase
+449,Credit Suisse Group AG,30.05.2017,8'359.20,18'576,Sale
+450,Credit Suisse Group AG,30.05.2017,32'119.20,2'974,Purchase
+451,EFG International,30.05.2017,30'075.00,5'000,Sale
+452,Sonova Holding AG,30.05.2017,283'414.70,4'418,Sale
+453,Sunrise Communications Group AG,30.05.2017,132'999.97,1,Purchase
+454,Sunrise Communications Group AG,30.05.2017,51'494.16,1,Purchase
+455,VZ Holding AG,30.05.2017,2'792.80,16,Sale
+456,Adval Tech Holding AG,29.05.2017,62'496.00,217,Sale
+457,Compagnie Financière Richemont SA,29.05.2017,81'137.00,1'000,Purchase
+458,Credit Suisse Group AG,29.05.2017,10'648.80,986,Purchase
+459,Sonova Holding AG,29.05.2017,44'712.55,697,Sale
+460,Sunrise Communications Group AG,29.05.2017,389'187.90,4'830,Purchase
+461,Swiss Re AG,29.05.2017,20'988.00,1,Purchase
+462,Swiss Re AG,29.05.2017,20'988.00,1,Purchase
+463,VZ Holding AG,29.05.2017,213'044.15,1'218,Sale
+464,nebag ag,29.05.2017,11'409.90,1'042,Sale
+465,Credit Suisse Group AG,27.05.2017,129'708.00,12'010,Purchase
+466,Credit Suisse Group AG,27.05.2017,29'829.60,2'762,Purchase
+467,Alpiq Holding AG,26.05.2017,8'200.00,100,Purchase
+468,COLTENE Holding AG,26.05.2017,19'210.20,202,Sale
+469,Chocoladefabriken Lindt & Sprüngli AG,26.05.2017,118'800.00,20,Sale
+470,Credit Suisse Group AG,26.05.2017,801'036.00,74'170,Purchase
+471,Credit Suisse Group AG,26.05.2017,51'537.60,4'772,Purchase
+472,GAM Holding AG,26.05.2017,159'831.65,11'870,Purchase
+473,SGS SA,26.05.2017,70'770.00,21'000,Sale
+474,Ypsomed Holding AG,26.05.2017,214'000.00,1'000,Sale
+475,Credit Suisse Group AG,25.05.2017,17'560.80,1'626,Purchase
+476,Adval Tech Holding AG,24.05.2017,22'121.00,76,Sale
+477,BB Biotech AG,24.05.2017,1'997'210.05,36'000,Purchase
+478,COLTENE Holding AG,24.05.2017,9'319.80,98,Sale
+479,Credit Suisse Group AG,24.05.2017,384'480.00,35'600,Purchase
+480,Credit Suisse Group AG,24.05.2017,169'408.80,15'686,Purchase
+481,Credit Suisse Group AG,24.05.2017,28'296.00,2'620,Purchase
+482,Givaudan SA,24.05.2017,2'090'955.00,1'044,Sale
+483,HBM Healthcare Investments AG,24.05.2017,80'397.70,700,Purchase
+484,Komax Holding AG,24.05.2017,55'000.00,200,Sale
+485,Sonova Holding AG,24.05.2017,310'000.00,6'200,Sale
+486,Syngenta AG,24.05.2017,6'124'801.80,13'309,Sale
+487,Syngenta AG,24.05.2017,3'817'359.00,8'295,Sale
+488,Syngenta AG,24.05.2017,1'331'358.60,2'893,Sale
+489,Syngenta AG,24.05.2017,888'186.00,1'930,Sale
+490,Syngenta AG,24.05.2017,465'262.20,1'011,Sale
+491,Syngenta AG,24.05.2017,255'411.00,555,Sale
+492,Syngenta AG,24.05.2017,139'900.80,304,Sale
+493,Valiant Holding AG,24.05.2017,13'878.70,121,Purchase
+494,dormakaba Holding AG,24.05.2017,31'139.20,37,Purchase
+495,dormakaba Holding AG,24.05.2017,18'515.20,22,Purchase
+496,u-blox Holding AG,24.05.2017,402'000.00,2'000,Sale
+497,Chocoladefabriken Lindt & Sprüngli AG,23.05.2017,187'200.00,32,Sale
+498,EFG International,23.05.2017,,58'192,Purchase
+499,Komax Holding AG,23.05.2017,54'451.00,200,Sale
+500,Sulzer AG,23.05.2017,94'474.60,835,Purchase
+501,Autoneum Holding AG,22.05.2017,93'139.20,398,Purchase
+502,Basler Kantonalbank,22.05.2017,966.00,14,Purchase
+503,Chocoladefabriken Lindt & Sprüngli AG,22.05.2017,1'168'000.00,200,Sale
+504,Chocoladefabriken Lindt & Sprüngli AG,22.05.2017,549'900.00,94,Sale
+505,Credit Suisse Group AG,22.05.2017,394'437.60,36'522,Purchase
+506,Credit Suisse Group AG,22.05.2017,184'291.20,17'064,Purchase
+507,Credit Suisse Group AG,22.05.2017,64'497.60,5'972,Purchase
+508,SGS SA,22.05.2017,136'341.00,33'774,Sale
+509,SGS SA,22.05.2017,22'190.00,7'000,Sale
+510,Sonova Holding AG,22.05.2017,372'775.20,6'200,Sale
+511,Swiss Prime Site AG,22.05.2017,1'109'461.45,12'500,Sale
+512,VAT Group AG,22.05.2017,4'230'384.00,34'116,Sale
+513,Burkhalter Holding AG,19.05.2017,186'985.55,1'240,Sale
+514,Chocoladefabriken Lindt & Sprüngli AG,19.05.2017,1'305'780.00,224,Sale
+515,Compagnie Financière Richemont SA,19.05.2017,164'608.23,6'667,Sale
+516,Credit Suisse Group AG,19.05.2017,278'337.60,25'772,Purchase
+517,Credit Suisse Group AG,19.05.2017,73'483.20,6'804,Purchase
+518,Galenica Santé AG,19.05.2017,11'162.50,250,Purchase
+519,Investis Holding SA,19.05.2017,41'077.37,693,Purchase
+520,ORIOR AG,19.05.2017,157'491.25,2'100,Purchase
+521,nebag ag,19.05.2017,63'315.00,6'030,Purchase
+522,Autoneum Holding AG,18.05.2017,21'503.83,91,Purchase
+523,Investis Holding SA,18.05.2017,8'092.00,136,Purchase
+524,Meyer Burger Technology AG,18.05.2017,,24'314,Purchase
+525,Schaffner Holding AG,18.05.2017,6'800.00,100,Sale
+526,ams AG,18.05.2017,23'845.00,400,Sale
+527,Autoneum Holding AG,17.05.2017,104'228.19,437,Purchase
+528,Burkhalter Holding AG,17.05.2017,9'952.80,66,Sale
+529,Comet Holding AG,17.05.2017,305'547.00,2'490,Sale
+530,ORIOR AG,17.05.2017,231'750.00,3'090,Purchase
+531,Swiss Re AG,17.05.2017,91'505.70,1'027,Sale
+532,Bobst Group SA,16.05.2017,325'558.15,3'200,Sale
+533,Chocoladefabriken Lindt & Sprüngli AG,16.05.2017,2'960'615.00,497,Sale
+534,Hügli Holding AG,16.05.2017,84'945.00,105,Sale
+535,Leonteq AG,16.05.2017,45'023.90,1'000,Sale
+536,Logitech International S.A.,16.05.2017,209'147.50,5'961,Purchase
+537,Logitech International S.A.,16.05.2017,62'803.90,1'790,Purchase
+538,RELIEF THERAPEUTICS Holding AG,16.05.2017,30'000.00,3'000'000,Sale
+539,SGS SA,16.05.2017,51'676.00,17'000,Sale
+540,Autoneum Holding AG,15.05.2017,68'525.70,279,Purchase
+541,Burkhalter Holding AG,15.05.2017,425'538.12,2'800,Sale
+542,Nestlé AG,15.05.2017,2'241'250.00,27'500,Sale
+543,Schaffner Holding AG,15.05.2017,43'916.40,660,Sale
+544,VZ Holding AG,15.05.2017,32'602.00,213,Sale
+545,ams AG,15.05.2017,1'514'200.00,1'340'000,Sale
+546,nebag ag,15.05.2017,5'076.00,470,Purchase
+547,Berner Kantonalbank,12.05.2017,19'100.00,100,Sale
+548,Credit Suisse Group AG,12.05.2017,71'358.56,5'278,Purchase
+549,Credit Suisse Group AG,12.05.2017,22'632.48,1'674,Purchase
+550,Datacolor AG,12.05.2017,710'000.00,1'000,Purchase
+551,Roche Holding AG,12.05.2017,500'004.00,1,Purchase
+552,Roche Holding AG,12.05.2017,199'980.00,1,Purchase
+553,Roche Holding AG,12.05.2017,150'000.00,1,Purchase
+554,SFS Group AG,12.05.2017,32'790.16,326,Purchase
+555,VZ Holding AG,12.05.2017,131'076.00,1'324,Sale
+556,mobilezone holding ag,12.05.2017,222'660.90,14'553,Sale
+557,nebag ag,12.05.2017,8'078.40,748,Purchase
+558,Barry Callebaut AG,11.05.2017,283'800.00,200,Sale
+559,Burkhalter Holding AG,11.05.2017,466'952.07,31'600,Sale
+560,Cicor Technologies Ltd.,11.05.2017,10'950.00,250,Purchase
+561,Credit Suisse Group AG,11.05.2017,57'339.00,4'155,Purchase
+562,Novartis AG,11.05.2017,301'720.00,3'800,Sale
+563,Adecco Group AG,10.05.2017,420'688.50,5'510,Sale
+564,Burkhalter Holding AG,10.05.2017,542'355.84,3'600,Sale
+565,Chocoladefabriken Lindt & Sprüngli AG,10.05.2017,1'123'260.00,194,Sale
+566,Credit Suisse Group AG,10.05.2017,117'853.39,8'497,Purchase
+567,Credit Suisse Group AG,10.05.2017,49'377.20,3'560,Purchase
+568,Credit Suisse Group AG,10.05.2017,18'363.88,1'324,Purchase
+569,Datacolor AG,10.05.2017,292'320.00,406,Sale
+570,Roche Holding AG,10.05.2017,2'186'691.30,8'190,Sale
+571,ams AG,10.05.2017,2'431'050.00,38'000,Sale
+572,Banque Cantonale Vaudoise,09.05.2017,80'583.50,115,Sale
+573,Barry Callebaut AG,09.05.2017,420'882.00,300,Sale
+574,Burkhalter Holding AG,09.05.2017,1'459'052.98,9'650,Sale
+575,Chocoladefabriken Lindt & Sprüngli AG,09.05.2017,6'053'250.00,1'050,Sale
+576,Geberit AG,09.05.2017,1'240'620.00,2'697,Sale
+577,Investis Holding SA,09.05.2017,84'511.50,1'458,Purchase
+578,SGS SA,09.05.2017,49'636.86,18'182,Sale
+579,Schindler Holding AG,09.05.2017,806'800.00,4'000,Sale
+580,UBS Group AG,09.05.2017,449'448.55,26'408,Sale
+581,Burkhalter Holding AG,08.05.2017,203'472.95,1'350,Sale
+582,Calida Holding AG,08.05.2017,66'800.00,2'000,Sale
+583,Chocoladefabriken Lindt & Sprüngli AG,08.05.2017,1'720'200.00,300,Sale
+584,Credit Suisse Group AG,08.05.2017,10'081.92,708,Purchase
+585,GAM Holding AG,08.05.2017,33'243.70,2'500,Purchase
+586,Geberit AG,08.05.2017,184'959.20,656,Purchase
+587,Kudelski S.A.,08.05.2017,1'772'388.00,100'000,Sale
+588,VZ Holding AG,08.05.2017,32'591.65,203,Sale
+589,Valiant Holding AG,08.05.2017,41'876.00,361,Sale
+590,nebag ag,08.05.2017,32'700.00,3'000,Sale
+591,Credit Suisse Group AG,06.05.2017,64'437.93,4'503,Purchase
+592,Credit Suisse Group AG,06.05.2017,61'990.92,4'332,Purchase
+593,Credit Suisse Group AG,06.05.2017,10'088.55,705,Purchase
+594,Autoneum Holding AG,05.05.2017,7'500.00,2'000,Sale
+595,Chocoladefabriken Lindt & Sprüngli AG,05.05.2017,1'710'422.50,300,Sale
+596,Chocoladefabriken Lindt & Sprüngli AG,05.05.2017,1'139'425.00,200,Sale
+597,Datacolor AG,05.05.2017,36'500.00,50,Sale
+598,Investis Holding SA,05.05.2017,28'750.00,500,Purchase
+599,Lonza Group AG,05.05.2017,43'013.65,3'271,Sale
+600,Lonza Group AG,05.05.2017,17'680.00,130,Purchase
+601,VZ Holding AG,05.05.2017,3'692.65,23,Sale
+602,Autoneum Holding AG,04.05.2017,125'000.00,20'000,Sale
+603,COLTENE Holding AG,04.05.2017,26'040.00,300,Sale
+604,Datacolor AG,04.05.2017,36'500.00,50,Sale
+605,Hügli Holding AG,04.05.2017,20'501.00,26,Sale
+606,Lonza Group AG,04.05.2017,538'244.00,38'446,Sale
+607,Lonza Group AG,04.05.2017,108'800.00,800,Purchase
+608,Newron Pharmaceuticals S.p.A.,04.05.2017,12'427.45,1'750,Purchase
+609,"OC Oerlikon Corporation AG, Pfäffikon",04.05.2017,133'540.50,10'515,Sale
+610,SCHMOLZ+BICKENBACH AG,04.05.2017,3'251'745.00,3'496'500,Sale
+611,ams AG,04.05.2017,379'500.00,6'000,Sale
+612,Altin AG,03.05.2017,60'851.00,2'526,Purchase
+613,Berner Kantonalbank,03.05.2017,28'530.00,150,Sale
+614,Burkhalter Holding AG,03.05.2017,319'086.29,2'120,Sale
+615,Chocoladefabriken Lindt & Sprüngli AG,03.05.2017,351'540.00,62,Sale
+616,Hügli Holding AG,03.05.2017,24'374.00,31,Sale
+617,Kühne + Nagel International AG,03.05.2017,45'981.36,1'982,Sale
+618,Lonza Group AG,03.05.2017,65'608.00,4'448,Sale
+619,Lonza Group AG,03.05.2017,580'176.00,4'266,Purchase
+620,Lonza Group AG,03.05.2017,58'752.00,432,Purchase
+621,ORIOR AG,03.05.2017,5'925.00,79,Purchase
+622,Roche Holding AG,03.05.2017,1'448'679.40,5'476,Sale
+623,SGS SA,03.05.2017,22'438.08,7'632,Sale
+624,VZ Holding AG,03.05.2017,35'606.30,226,Sale
+625,Bucher Industries AG,02.05.2017,316'839.00,1'000,Sale
+626,Burkhalter Holding AG,02.05.2017,929'284.34,6'148,Sale
+627,Chocoladefabriken Lindt & Sprüngli AG,02.05.2017,1'605'630.00,292,Sale
+628,Feintool International Holding AG,02.05.2017,130.00,2'159,Sale
+629,Hochdorf Holding AG,02.05.2017,55'132.00,179,Sale
+630,Huber+Suhner AG,02.05.2017,78'390.00,1'170,Sale
+631,Hügli Holding AG,02.05.2017,18'001.00,23,Sale
+632,INFICON Holding AG,02.05.2017,53'000.00,100,Sale
+633,Logitech International S.A.,02.05.2017,2'359'626.50,69'467,Sale
+634,Lonza Group AG,02.05.2017,119'194.30,7'600,Sale
+635,Lonza Group AG,02.05.2017,46.95,3,Sale
+636,Lonza Group AG,02.05.2017,280'976.00,2'066,Purchase
+637,Lonza Group AG,02.05.2017,178'160.00,1'310,Purchase
+638,Lonza Group AG,02.05.2017,136'000.00,1'000,Purchase
+639,Lonza Group AG,02.05.2017,87'312.00,642,Purchase
+640,Luzerner Kantonalbank,02.05.2017,34'520.00,80,Sale
+641,Roche Holding AG,02.05.2017,2'849'012.00,10'876,Sale
+642,SGS SA,02.05.2017,24'885.45,9'759,Sale
+643,UBS Group AG,02.05.2017,1'440'825.45,84'157,Sale
+644,Warteck Invest AG,02.05.2017,5'853.00,3,Purchase
+645,nebag ag,02.05.2017,32'400.00,3'000,Sale
+646,Autoneum Holding AG,28.04.2017,351'307.00,1'199,Sale
+647,Cham Paper Group Holding AG,28.04.2017,44'631.25,125,Purchase
+648,INFICON Holding AG,28.04.2017,52'500.00,100,Sale
+649,Schindler Holding AG,28.04.2017,177'750.00,1'500,Sale
+650,Straumann Holding AG,28.04.2017,360'990.00,1'000,Purchase
+651,Straumann Holding AG,28.04.2017,252'693.00,700,Purchase
+652,Straumann Holding AG,28.04.2017,108'297.00,300,Purchase
+653,The Swatch Group AG,28.04.2017,71'733.75,925,Sale
+654,Vontobel Holding AG,28.04.2017,250'939.50,4'280,Sale
+655,nebag ag,28.04.2017,10'750.00,1'000,Sale
+656,Chocoladefabriken Lindt & Sprüngli AG,27.04.2017,1'130'105.00,200,Sale
+657,Feintool International Holding AG,27.04.2017,270'905.00,2'124,Sale
+658,Hochdorf Holding AG,27.04.2017,21'361.50,70,Sale
+659,Leonteq AG,27.04.2017,137'191.10,3'000,Sale
+660,Logitech International S.A.,27.04.2017,1'623'179.78,50'000,Sale
+661,Novartis AG,27.04.2017,999'400.00,13'150,Sale
+662,SGS SA,27.04.2017,248'000.00,100'000,Sale
+663,SGS SA,27.04.2017,19'250.00,7'000,Sale
+664,dormakaba Holding AG,27.04.2017,211'500.00,250,Sale
+665,Airesis SA,26.04.2017,5'206.50,4'450,Purchase
+666,Banque Cantonale de Genève,26.04.2017,1.00,8,Purchase
+667,Galenica Santé AG,26.04.2017,55'897.50,1'285,Purchase
+668,Hochdorf Holding AG,26.04.2017,30'024.50,100,Sale
+669,Interroll Holding AG,26.04.2017,567'500.00,500,Sale
+670,Novartis AG,26.04.2017,997'430.50,13'211,Sale
+671,Schindler Holding AG,26.04.2017,880'076.90,4'350,Sale
+672,Sika AG,26.04.2017,745'170.00,118,Sale
+673,ams AG,26.04.2017,82'875.00,8'500,Purchase
+674,nebag ag,26.04.2017,10'650.00,1'000,Purchase
+675,Airesis SA,25.04.2017,7'937.20,6'675,Purchase
+676,Bâloise Holding AG,25.04.2017,363'619.20,2'500,Sale
+677,INFICON Holding AG,25.04.2017,193'115.50,900,Sale
+678,Komax Holding AG,25.04.2017,776'250.00,3'000,Purchase
+679,Straumann Holding AG,25.04.2017,499'247.78,1'025,Sale
+680,Straumann Holding AG,25.04.2017,112'026.35,230,Sale
+681,Varia US Properties AG,25.04.2017,13'475.00,350,Sale
+682,ams AG,25.04.2017,1'318'258.00,29'165,Sale
+683,ams AG,25.04.2017,556'700.00,45'000,Purchase
+684,Airesis SA,24.04.2017,5'384.50,4'450,Purchase
+685,Bâloise Holding AG,24.04.2017,142'200.00,1'000,Sale
+686,Julius Bär Gruppe AG,24.04.2017,462'650.00,9'253,Sale
+687,Luzerner Kantonalbank,24.04.2017,34'225.62,80,Sale
+688,SGS SA,24.04.2017,72'000.00,30'000,Sale
+689,Temenos Group AG,24.04.2017,13'700'464.00,167'939,Sale
+690,Temenos Group AG,24.04.2017,5'797'185.00,71'061,Sale
+691,nebag ag,24.04.2017,33'437.50,3'125,Sale
+692,u-blox Holding AG,24.04.2017,85'555.47,1'443,Purchase
+693,Altin AG,21.04.2017,35'180.00,1'500,Purchase
+694,Edmond de Rothschild (Suisse) S.A.,21.04.2017,2'402'500.00,155,Purchase
+695,Molecular Partners Ltd,21.04.2017,2'800'000.00,100'000,Sale
+696,St. Galler Kantonalbank,21.04.2017,36'200.00,500,Sale
+697,Temenos Group AG,21.04.2017,1'157'621.00,14'458,Sale
+698,Bellevue Group AG,20.04.2017,20'592.75,1'250,Purchase
+699,Bâloise Holding AG,20.04.2017,383'588.90,2'746,Sale
+700,SGS SA,20.04.2017,22'500.00,10'000,Sale
+701,nebag ag,20.04.2017,42.80,4,Sale
+702,Gurit Holding AG,19.04.2017,42'500.00,50,Sale
+703,Orascom Development Holding AG,19.04.2017,16'577.20,3'000,Sale
+704,St. Galler Kantonalbank,19.04.2017,59'004.75,140,Sale
+705,nebag ag,19.04.2017,6'420.00,600,Sale
+706,Burkhalter Holding AG,18.04.2017,19'261.10,125,Sale
+707,Logitech International S.A.,18.04.2017,7'354'770.28,236'280,Purchase
+708,Logitech International S.A.,18.04.2017,1'120'771.37,36'006,Purchase
+709,Logitech International S.A.,18.04.2017,648'258.19,20'826,Purchase
+710,Sika AG,18.04.2017,353'460.00,57,Sale
+711,The Swatch Group AG,18.04.2017,432'000.00,6'000,Sale
+712,mobilezone holding ag,18.04.2017,1'505'000.00,100'000,Sale
+713,Meyer Burger Technology AG,15.04.2017,,54'118,Purchase
+714,Sika AG,14.04.2017,1'446'135.00,229,Sale
+715,Actelion Ltd,13.04.2017,147'576.00,520,Sale
+716,Banque Cantonale de Genève,13.04.2017,1.00,8,Purchase
+717,Banque Cantonale de Genève,13.04.2017,1.00,8,Purchase
+718,Banque Cantonale de Genève,13.04.2017,1.00,8,Purchase
+719,Banque Cantonale de Genève,13.04.2017,1.00,8,Purchase
+720,Banque Cantonale de Genève,13.04.2017,1.00,8,Purchase
+721,Banque Cantonale de Genève,13.04.2017,1.00,8,Purchase
+722,Burkhalter Holding AG,13.04.2017,2'850'000.00,19'000,Sale
+723,Chocoladefabriken Lindt & Sprüngli AG,13.04.2017,563'500.00,100,Sale
+724,Hypothekarbank Lenzburg,13.04.2017,313'051.50,70,Sale
+725,Meyer Burger Technology AG,13.04.2017,,547'059,Purchase
+726,Partners Group Holding AG,13.04.2017,3'467'000.00,6'000,Sale
+727,mobilezone holding ag,13.04.2017,504'536.00,33'524,Sale
+728,Altin AG,12.04.2017,15'240.00,652,Purchase
+729,EFG International,12.04.2017,5'145.41,852,Sale
+730,Edisun Power Europe AG,12.04.2017,4'347.65,89,Purchase
+731,Hügli Holding AG,12.04.2017,55'664.00,70,Sale
+732,Luzerner Kantonalbank,12.04.2017,34'145.84,80,Sale
+733,Sunrise Communications Group AG,12.04.2017,49'902.85,658,Purchase
+734,Sunrise Communications Group AG,12.04.2017,49'902.85,658,Purchase
+735,Sunrise Communications Group AG,12.04.2017,49'902.85,658,Purchase
+736,Sunrise Communications Group AG,12.04.2017,49'902.85,658,Purchase
+737,mobilezone holding ag,12.04.2017,732'544.00,48'674,Sale
+738,Bossard Holding AG,11.04.2017,175'260.00,1'200,Purchase
+739,Bossard Holding AG,11.04.2017,116'840.00,800,Purchase
+740,Bossard Holding AG,11.04.2017,99'314.00,680,Purchase
+741,Bossard Holding AG,11.04.2017,59'880.50,410,Purchase
+742,Bossard Holding AG,11.04.2017,55'791.10,382,Purchase
+743,Bossard Holding AG,11.04.2017,36'512.50,250,Purchase
+744,COLTENE Holding AG,11.04.2017,15'163.20,181,Sale
+745,Galenica Santé AG,11.04.2017,24'765.00,635,Purchase
+746,Meyer Burger Technology AG,11.04.2017,,328'235,Purchase
+747,Meyer Burger Technology AG,11.04.2017,,36'471,Purchase
+748,Sika AG,11.04.2017,239'020.00,38,Purchase
+749,Sika AG,11.04.2017,81'770.00,13,Purchase
+750,St. Galler Kantonalbank,11.04.2017,34'850.00,500,Sale
+751,mobilezone holding ag,11.04.2017,105'032.00,6'969,Sale
+752,nebag ag,11.04.2017,13'727.00,1'295,Sale
+753,COLTENE Holding AG,10.04.2017,26'460.30,319,Sale
+754,Helvetia Holding AG,10.04.2017,5'490.00,10,Sale
+755,Helvetia Holding AG,10.04.2017,202'581.00,369,Purchase
+756,Meyer Burger Technology AG,10.04.2017,,64'706,Purchase
+757,Partners Group Holding AG,10.04.2017,281'050.00,500,Sale
+758,Vontobel Holding AG,10.04.2017,765'639.85,13'560,Sale
+759,Bachem Holding AG,07.04.2017,143'787.00,1'230,Sale
+760,Forbo Holding AG,07.04.2017,305'034.75,225,Purchase
+761,Forbo Holding AG,07.04.2017,124'725.32,92,Purchase
+762,Galenica Santé AG,07.04.2017,3'120.00,80,Purchase
+763,Helvetia Holding AG,07.04.2017,94'520.00,200,Purchase
+764,Helvetia Holding AG,07.04.2017,94'520.00,200,Purchase
+765,Helvetia Holding AG,07.04.2017,94'520.00,200,Purchase
+766,Komax Holding AG,07.04.2017,113'220.00,444,Sale
+767,Partners Group Holding AG,07.04.2017,2'880'000.00,5'000,Sale
+768,SGS SA,07.04.2017,20'100.00,10'000,Sale
+769,Swiss Re AG,07.04.2017,427'904.44,4'773,Sale
+770,VZ Holding AG,07.04.2017,49'990.90,166,Purchase
+771,VZ Holding AG,07.04.2017,41'257.55,137,Purchase
+772,VZ Holding AG,07.04.2017,34'933.40,116,Purchase
+773,VZ Holding AG,07.04.2017,32'524.20,108,Purchase
+774,VZ Holding AG,07.04.2017,24'995.45,83,Purchase
+775,Vontobel Holding AG,07.04.2017,562'035.85,10'000,Sale
+776,mobilezone holding ag,07.04.2017,171'687.00,10'832,Sale
+777,Komax Holding AG,06.04.2017,142'336.00,556,Sale
+778,Partners Group Holding AG,06.04.2017,557'000.00,1'000,Sale
+779,mobilezone holding ag,06.04.2017,568'536.00,35'757,Sale
+780,mobilezone holding ag,06.04.2017,317'000.00,20'000,Sale
+781,Helvetia Holding AG,05.04.2017,164'922.50,300,Sale
+782,Hochdorf Holding AG,05.04.2017,9'640.00,32,Sale
+783,Kühne + Nagel International AG,05.04.2017,45'641.68,4'376,Sale
+784,Molecular Partners Ltd,05.04.2017,24'221'610.00,1'076'516,Sale
+785,Partners Group Holding AG,05.04.2017,2'002'428.00,3'600,Sale
+786,Banque Cantonale de Genève,04.04.2017,1.00,8,Purchase
+787,HBM Healthcare Investments AG,04.04.2017,674'924.00,6'000,Purchase
+788,Partners Group Holding AG,04.04.2017,1'625'875.00,3'000,Sale
+789,Banque Cantonale de Genève,03.04.2017,1.00,8,Purchase
+790,Banque Cantonale de Genève,03.04.2017,1.00,8,Purchase
+791,Bâloise Holding AG,03.04.2017,345'198.50,2'500,Sale
+792,Calida Holding AG,03.04.2017,123'000.00,4'000,Sale
+793,Chocoladefabriken Lindt & Sprüngli AG,03.04.2017,2'258'520.00,396,Sale
+794,Interroll Holding AG,03.04.2017,101'147.00,89,Sale
+795,Newron Pharmaceuticals S.p.A.,03.04.2017,44'105.60,1'969,Purchase
+796,Zurich Insurance Group AG,03.04.2017,771'186.92,2'917,Sale
+797,Zurich Insurance Group AG,03.04.2017,248'046.51,940,Sale
+798,Zurich Insurance Group AG,03.04.2017,108'982.14,413,Sale
+799,Zurich Insurance Group AG,03.04.2017,92'357.74,350,Sale
+800,nebag ag,03.04.2017,58'985.05,5'591,Sale
+801,Arbonia AG,31.03.2017,63'386.40,3'773,Purchase
+802,Interroll Holding AG,31.03.2017,93'414.00,81,Sale
+803,LEM Holding SA,31.03.2017,46'674.00,50,Purchase
+804,Roche Holding AG,31.03.2017,384'750.00,1'500,Purchase
+805,St. Galler Kantonalbank,31.03.2017,66'400.00,1'000,Sale
+806,Varia US Properties AG,31.03.2017,13'422.15,350,Purchase
+807,u-blox Holding AG,31.03.2017,220'063.20,1'000,Sale
+808,Altin AG,30.03.2017,16'997.00,738,Purchase
+809,Calida Holding AG,30.03.2017,53'246.70,1'998,Sale
+810,Chocoladefabriken Lindt & Sprüngli AG,30.03.2017,112'600.00,20,Sale
+811,Cosmo Pharmaceuticals N.V.,30.03.2017,8'437'800.00,105'000,Sale
+812,Cosmo Pharmaceuticals N.V.,30.03.2017,8'437'800.00,105'000,Sale
+813,Cosmo Pharmaceuticals N.V.,30.03.2017,4'821'600.00,60'000,Sale
+814,Cosmo Pharmaceuticals N.V.,30.03.2017,1'285'760.00,16'000,Sale
+815,Cosmo Pharmaceuticals N.V.,30.03.2017,1'073'520.00,18'000,Sale
+816,Cosmo Pharmaceuticals N.V.,30.03.2017,803'600.00,10'000,Sale
+817,Cosmo Pharmaceuticals N.V.,30.03.2017,715'680.00,12'000,Sale
+818,Cosmo Pharmaceuticals N.V.,30.03.2017,642'880.00,8'000,Sale
+819,Cosmo Pharmaceuticals N.V.,30.03.2017,536'760.00,9'000,Sale
+820,Cosmo Pharmaceuticals N.V.,30.03.2017,180'648.00,1'800,Purchase
+821,Edisun Power Europe AG,30.03.2017,700.00,14,Purchase
+822,Geberit AG,30.03.2017,1'014'504.91,2'320,Sale
+823,Geberit AG,30.03.2017,363'124.59,1'762,Sale
+824,Geberit AG,30.03.2017,536'384.00,2'320,Purchase
+825,Geberit AG,30.03.2017,67'386.05,239,Purchase
+826,Hochdorf Holding AG,30.03.2017,75'000.00,15,Purchase
+827,Hochdorf Holding AG,30.03.2017,30'000.00,6,Purchase
+828,Hochdorf Holding AG,30.03.2017,5'000.00,1,Purchase
+829,Hochdorf Holding AG,30.03.2017,5'000.00,1,Purchase
+830,Komax Holding AG,30.03.2017,246'250.00,1'000,Sale
+831,LEM Holding SA,30.03.2017,46'465.00,50,Purchase
+832,SGS SA,30.03.2017,45'750.00,25'000,Sale
+833,Tecan Group AG,30.03.2017,25'605.45,161,Sale
+834,Arbonia AG,29.03.2017,172'754.40,10'283,Purchase
+835,Bâloise Holding AG,29.03.2017,276'042.30,2'000,Sale
+836,Compagnie Financière Richemont SA,29.03.2017,1'395'301.44,58'332,Sale
+837,Edisun Power Europe AG,29.03.2017,1'803.75,37,Purchase
+838,Emmi AG,29.03.2017,3'430.04,5,Purchase
+839,Nestlé AG,29.03.2017,3'562'552.60,48'722,Purchase
+840,Nestlé AG,29.03.2017,827'718.40,11'320,Purchase
+841,Nestlé AG,29.03.2017,569'970.40,7'795,Purchase
+842,Nestlé AG,29.03.2017,466'140.00,6'375,Purchase
+843,Partners Group Holding AG,29.03.2017,1'626'000.00,3'000,Sale
+844,Partners Group Holding AG,29.03.2017,228'930.08,1'680,Purchase
+845,VZ Holding AG,29.03.2017,117'450.00,1'000,Purchase
+846,u-blox Holding AG,29.03.2017,211'800.00,1'000,Sale
+847,BFW Liegenschaften AG,28.03.2017,98'378.30,670'000,Sale
+848,BFW Liegenschaften AG,28.03.2017,11'227.56,75'265,Sale
+849,Calida Holding AG,28.03.2017,5'170.10,194,Sale
+850,Compagnie Financière Richemont SA,28.03.2017,2'273'022.73,100'001,Sale
+851,Geberit AG,28.03.2017,950'250.00,2'172,Sale
+852,Komax Holding AG,28.03.2017,750'750.00,3'000,Purchase
+853,Partners Group Holding AG,28.03.2017,43'200.00,160,Purchase
+854,Tecan Group AG,28.03.2017,465'962.20,3'000,Sale
+855,Tecan Group AG,28.03.2017,169'631.90,1'500,Sale
+856,u-blox Holding AG,28.03.2017,215'194.00,1'400,Sale
+857,BFW Liegenschaften AG,27.03.2017,8'626.16,53'912,Sale
+858,Bâloise Holding AG,27.03.2017,391'900.20,2'865,Sale
+859,Bâloise Holding AG,27.03.2017,272'373.80,2'000,Sale
+860,Calida Holding AG,27.03.2017,23'638.55,887,Purchase
+861,Compagnie Financière Tradition S.A.,27.03.2017,98'390.00,1'000,Sale
+862,Logitech International S.A.,27.03.2017,830'427.70,26'583,Purchase
+863,Partners Group Holding AG,27.03.2017,256'340.38,1'920,Purchase
+864,VZ Holding AG,27.03.2017,85'332.50,300,Purchase
+865,u-blox Holding AG,27.03.2017,209'594.00,1'400,Sale
+866,Adecco Group AG,24.03.2017,892'834.00,12'713,Sale
+867,Arbonia AG,24.03.2017,656'632.60,38'854,Purchase
+868,Bâloise Holding AG,24.03.2017,272'000.00,2'000,Sale
+869,IVF Hartmann Holding AG,24.03.2017,10'507.90,50,Purchase
+870,Interroll Holding AG,24.03.2017,59'927.00,49,Purchase
+871,Komax Holding AG,24.03.2017,157'018.25,600,Sale
+872,Komax Holding AG,24.03.2017,786'000.00,3'000,Purchase
+873,Peach Property Group AG,24.03.2017,223'600.00,13'000,Sale
+874,Schindler Holding AG,24.03.2017,164'891.16,3'171,Sale
+875,BFW Liegenschaften AG,23.03.2017,16'048.37,85'223,Sale
+876,BFW Liegenschaften AG,23.03.2017,1'500.00,10'000,Sale
+877,Geberit AG,23.03.2017,435'000.00,1'000,Sale
+878,INFICON Holding AG,23.03.2017,189'850.00,1'000,Sale
+879,Leonteq AG,23.03.2017,95'004.10,2'474,Purchase
+880,Leonteq AG,23.03.2017,87'515.90,2'279,Purchase
+881,Leonteq AG,23.03.2017,15'014.80,391,Purchase
+882,Novartis AG,23.03.2017,295'295.57,4'000,Sale
+883,Arbonia AG,22.03.2017,2'669'043.96,157'449,Purchase
+884,BKW AG,22.03.2017,19'440.00,600,Purchase
+885,Bank Coop AG,22.03.2017,77'992'272.95,1'751'848,Purchase
+886,Givaudan SA,22.03.2017,103'768.00,56,Sale
+887,Partners Group Holding AG,22.03.2017,2'730'000.00,5'000,Sale
+888,St. Galler Kantonalbank,22.03.2017,71'980.80,1'104,Sale
+889,APG SGA SA,21.03.2017,95'494.90,207,Sale
+890,Chocoladefabriken Lindt & Sprüngli AG,21.03.2017,730'065.00,128,Sale
+891,Clariant AG,21.03.2017,950'265.40,50'000,Sale
+892,Givaudan SA,21.03.2017,926'919.00,500,Sale
+893,Orell Füssli Holding AG,21.03.2017,12'667.00,108,Purchase
+894,Syngenta AG,21.03.2017,248'706.23,2'841,Purchase
+895,Tecan Group AG,21.03.2017,921'593.00,6'104,Sale
+896,Tecan Group AG,21.03.2017,619'025.00,4'100,Sale
+897,Tecan Group AG,21.03.2017,301'963.00,2'000,Sale
+898,u-blox Holding AG,21.03.2017,212'500.00,1'000,Sale
+899,BKW AG,20.03.2017,6'480.00,200,Purchase
+900,Banque Cantonale Vaudoise,20.03.2017,53'000.00,100,Purchase
+901,Chocoladefabriken Lindt & Sprüngli AG,20.03.2017,808'980.00,142,Sale
+902,Comet Holding AG,20.03.2017,125'500.00,100,Sale
+903,Geberit AG,20.03.2017,448'156.60,1'028,Purchase
+904,Geberit AG,20.03.2017,268'545.20,616,Purchase
+905,Geberit AG,20.03.2017,69'752.00,160,Purchase
+906,INFICON Holding AG,20.03.2017,174'058.50,1'050,Sale
+907,Swiss Life Holding AG,20.03.2017,542'640.00,1'680,Sale
+908,dormakaba Holding AG,20.03.2017,120'150.00,150,Sale
+909,BKW AG,19.03.2017,19'440.00,600,Purchase
+910,Arbonia AG,17.03.2017,316'717.00,18'601,Purchase
+911,Banque Cantonale Vaudoise,17.03.2017,53'000.00,100,Purchase
+912,Chocoladefabriken Lindt & Sprüngli AG,17.03.2017,898'220.00,158,Sale
+913,Conzzeta AG,17.03.2017,107'152.00,181,Purchase
+914,Conzzeta AG,17.03.2017,71'040.00,120,Purchase
+915,Conzzeta AG,17.03.2017,43'216.00,73,Purchase
+916,Edisun Power Europe AG,17.03.2017,5'754.00,120,Purchase
+917,INFICON Holding AG,17.03.2017,78'404.00,300,Sale
+918,SGS SA,17.03.2017,53'760.76,32'386,Sale
+919,Vontobel Holding AG,17.03.2017,1'498'617.15,25'771,Sale
+920,u-blox Holding AG,17.03.2017,313'211.30,2'081,Sale
+921,Adecco Group AG,16.03.2017,168'314.40,2'410,Sale
+922,Adecco Group AG,16.03.2017,67'046.40,960,Sale
+923,Banque Cantonale Vaudoise,16.03.2017,53'000.00,100,Purchase
+924,Chocoladefabriken Lindt & Sprüngli AG,16.03.2017,1'698'075.00,300,Sale
+925,Starrag Group Holding AG,16.03.2017,51'100.00,700,Purchase
+926,dormakaba Holding AG,16.03.2017,1'194'216.00,1'500,Sale
+927,u-blox Holding AG,16.03.2017,208'000.00,1'000,Sale
+928,ABB Ltd,15.03.2017,48'582.00,2'128,Sale
+929,ABB Ltd,15.03.2017,45'993.00,2'019,Sale
+930,ABB Ltd,15.03.2017,22'960.00,1'007,Sale
+931,ABB Ltd,15.03.2017,15'549.00,679,Sale
+932,Arbonia AG,15.03.2017,306'002.55,18'009,Purchase
+933,Chocoladefabriken Lindt & Sprüngli AG,15.03.2017,1'683'415.00,300,Sale
+934,Geberit AG,15.03.2017,214'100.00,500,Sale
+935,Intershop Holding AG,15.03.2017,240'000.00,1,Purchase
+936,Intershop Holding AG,15.03.2017,100'000.00,1,Purchase
+937,Swiss Life Holding AG,15.03.2017,484'200.00,1'500,Sale
+938,Vontobel Holding AG,15.03.2017,335'952.50,5'895,Sale
+939,nebag ag,15.03.2017,10'500.00,1'000,Sale
+940,Edisun Power Europe AG,14.03.2017,4'806.45,99,Purchase
+941,Galenica AG,14.03.2017,292'415.00,251,Purchase
+942,Galenica AG,14.03.2017,192'225.00,165,Purchase
+943,Galenica AG,14.03.2017,159'924.30,191,Purchase
+944,Galenica AG,14.03.2017,74'519.70,89,Purchase
+945,Vontobel Holding AG,14.03.2017,548'981.15,9'735,Sale
+946,dormakaba Holding AG,14.03.2017,664'176.00,822,Sale
+947,Calida Holding AG,13.03.2017,130'292.25,4'645,Sale
+948,Dottikon ES Holding AG,13.03.2017,6'000'000.00,10'000,Sale
+949,Helvetia Holding AG,13.03.2017,300'899.00,550,Purchase
+950,"OC Oerlikon Corporation AG, Pfäffikon",13.03.2017,123'765.95,11'407,Sale
+951,Roche Holding AG,13.03.2017,1'149'720.00,4'422,Purchase
+952,Vontobel Holding AG,13.03.2017,301'683.45,5'355,Sale
+953,dorma+kaba Holding AG,13.03.2017,144'480.00,178,Sale
+954,Banque Cantonale de Genève,10.03.2017,1.00,138,Purchase
+955,Castle Private Equity AG,10.03.2017,73'290.40,4'624,Sale
+956,Gurit Holding AG,10.03.2017,25'560.00,30,Sale
+957,Julius Bär Gruppe AG,10.03.2017,198'000.00,4'000,Sale
+958,Logitech International S.A.,10.03.2017,17'194.30,10'000,Sale
+959,Schindler Holding AG,10.03.2017,134'694.80,703,Sale
+960,BFW Liegenschaften AG,09.03.2017,222'509.00,5'000,Sale
+961,Bossard Holding AG,09.03.2017,22'875.00,125,Sale
+962,Comet Holding AG,09.03.2017,17'205.00,15,Sale
+963,Implenia AG,09.03.2017,143'478.00,2'000,Sale
+964,Roche Holding AG,09.03.2017,129'000.00,500,Purchase
+965,Straumann Holding AG,09.03.2017,109'627.50,250,Sale
+966,UBS Group AG,09.03.2017,69'784.00,4'400,Sale
+967,nebag ag,09.03.2017,10'500.00,1'000,Sale
+968,Banque Cantonale de Genève,08.03.2017,1.00,1'218,Purchase
+969,Bucher Industries AG,08.03.2017,72'000.00,1'200,Sale
+970,Feintool International Holding AG,08.03.2017,396'000.00,3'000,Sale
+971,Logitech International S.A.,08.03.2017,26'395.75,15'000,Sale
+972,Schindler Holding AG,08.03.2017,2'993'050.00,15'500,Purchase
+973,nebag ag,08.03.2017,40'950.00,3'900,Sale
+974,u-blox Holding AG,08.03.2017,205'929.00,1'000,Sale
+975,Altin AG,07.03.2017,79'155.00,3'376,Purchase
+976,Vontobel Holding AG,07.03.2017,496'821.65,8'940,Sale
+977,Arbonia AG,06.03.2017,5'345'390.96,312'962,Purchase
+978,Clariant AG,06.03.2017,9'455.00,500,Purchase
+979,Schindler Holding AG,06.03.2017,3'851.88,20,Purchase
+980,nebag ag,06.03.2017,1'050.00,100,Sale
+981,Nestlé AG,03.03.2017,402'300.00,5'400,Sale
+982,UBS Group AG,03.03.2017,2'445'752.95,152'971,Sale
+983,nebag ag,03.03.2017,17'929.91,1'711,Sale
+984,Credit Suisse Group AG,02.03.2017,632'936.00,40'000,Sale
+985,Nestlé AG,02.03.2017,192'359.00,2'582,Sale
+986,Vontobel Holding AG,02.03.2017,276'950.00,5'000,Sale
+987,Zehnder Group AG,02.03.2017,70'784.40,2'901,Purchase
+988,Zehnder Group AG,02.03.2017,34'989.60,1'434,Purchase
+989,Georg Fischer AG,01.03.2017,73'992.50,85,Sale
+990,Schindler Holding AG,01.03.2017,829'962.90,7'349,Sale
+991,Schindler Holding AG,01.03.2017,263'453.00,1'367,Sale
+992,Vontobel Holding AG,01.03.2017,577'506.33,10'395,Sale
+993,Vontobel Holding AG,01.03.2017,333'518.75,6'000,Sale
+994,mobilezone holding ag,01.03.2017,201'755.00,1,Purchase
+995,nebag ag,01.03.2017,4'692.05,449,Sale
+996,Addex Therapeutics Ltd,28.02.2017,,23'543,Purchase
+997,Basilea Pharmaceutica AG,28.02.2017,61'000.00,1'000,Sale
+998,Mobimo Holding AG,28.02.2017,32'564.25,123,Sale
+999,Novartis AG,28.02.2017,165'000.00,1,Purchase
+1000,Novartis AG,28.02.2017,60'000.00,1,Purchase
+1001,Schindler Holding AG,28.02.2017,105'600.00,550,Sale
+1002,Vontobel Holding AG,28.02.2017,295'527.95,5'372,Sale
+1003,ABB Ltd,27.02.2017,326'076.00,14'409,Purchase
+1004,ABB Ltd,27.02.2017,187'037.00,8'265,Purchase
+1005,Altin AG,27.02.2017,1'857.00,80,Purchase
+1006,Barry Callebaut AG,27.02.2017,124'922.88,96,Sale
+1007,Credit Suisse Group AG,27.02.2017,372'750.00,25'000,Sale
+1008,Implenia AG,27.02.2017,148'300.00,2'000,Sale
+1009,Lonza Group AG,27.02.2017,149'791.20,830,Purchase
+1010,Schindler Holding AG,27.02.2017,77'500.20,1'460,Sale
+1011,Implenia AG,24.02.2017,150'400.00,2'000,Sale
+1012,Implenia AG,24.02.2017,20'283.40,270,Purchase
+1013,Swiss Re AG,24.02.2017,905'080.50,10'000,Sale
+1014,Vontobel Holding AG,24.02.2017,23'608.80,428,Sale
+1015,Ypsomed Holding AG,24.02.2017,280'596.39,1'449,Sale
+1016,Altin AG,23.02.2017,11'654.00,501,Purchase
+1017,KTM Industries AG,23.02.2017,133'306'450.20,27'205'398,Sale
+1018,KTM Industries AG,23.02.2017,682'577.62,139'428,Sale
+1019,Schindler Holding AG,23.02.2017,108'509.10,951,Sale
+1020,Straumann Holding AG,23.02.2017,214'670.00,500,Sale
+1021,Ypsomed Holding AG,23.02.2017,503'778.50,2'600,Sale
+1022,nebag ag,23.02.2017,75'148.50,7'157,Sale
+1023,Barry Callebaut AG,22.02.2017,292'570.00,225,Sale
+1024,Mobimo Holding AG,22.02.2017,114'912.00,432,Sale
+1025,Nestlé AG,22.02.2017,1'839'037.90,34'510,Purchase
+1026,Sonova Holding AG,22.02.2017,262'000.00,2'000,Sale
+1027,Vontobel Holding AG,22.02.2017,276'418.20,4'985,Sale
+1028,Walter Meier AG,22.02.2017,53'228.34,1'236,Purchase
+1029,Ypsomed Holding AG,22.02.2017,207'620.46,1'073,Sale
+1030,Edisun Power Europe AG,21.02.2017,4'320.95,89,Purchase
+1031,Temenos Group AG,21.02.2017,15'034'020.00,200'000,Sale
+1032,UBS Group AG,21.02.2017,784'806.45,48'952,Sale
+1033,Vontobel Holding AG,21.02.2017,455'716.35,8'113,Sale
+1034,u-blox Holding AG,21.02.2017,195'000.00,1'000,Sale
+1035,Edisun Power Europe AG,20.02.2017,7'735.35,159,Purchase
+1036,Partners Group Holding AG,20.02.2017,10'207'524.00,1,Granting / Writing
+1037,Partners Group Holding AG,20.02.2017,10'207'524.00,1,Granting / Writing
+1038,Vontobel Holding AG,20.02.2017,560'000.35,10'000,Sale
+1039,Vontobel Holding AG,20.02.2017,56'250.00,1'000,Sale
+1040,Schindler Holding AG,17.02.2017,344'601.60,2'564,Sale
+1041,Schindler Holding AG,17.02.2017,264'064.80,4'682,Purchase
+1042,Temenos Group AG,17.02.2017,26'285'094.00,355'000,Sale
+1043,Temenos Group AG,17.02.2017,14'602'052.00,194'953,Purchase
+1044,Vontobel Holding AG,17.02.2017,408'511.95,7'291,Sale
+1045,Vontobel Holding AG,17.02.2017,195'832.00,3'497,Sale
+1046,Comet Holding AG,16.02.2017,103'895.00,99,Sale
+1047,SGS SA,16.02.2017,65'731.20,41'082,Sale
+1048,Schindler Holding AG,16.02.2017,101'495.00,530,Sale
+1049,Temenos Group AG,16.02.2017,4'074'975.00,55'000,Sale
+1050,Vontobel Holding AG,16.02.2017,560'091.35,10'000,Sale
+1051,Vontobel Holding AG,16.02.2017,12'182.40,216,Sale
+1052,nebag ag,16.02.2017,43'563.81,4'184,Sale
+1053,Partners Group Holding AG,15.02.2017,169'920.00,720,Purchase
+1054,Temenos Group AG,15.02.2017,1'351'136.00,19'422,Sale
+1055,Temenos Group AG,15.02.2017,254'077.00,3'475,Purchase
+1056,Vontobel Holding AG,15.02.2017,625'446.10,11'199,Sale
+1057,nebag ag,15.02.2017,32'510.40,3'126,Sale
+1058,Altin AG,14.02.2017,21'110.00,896,Purchase
+1059,Leonteq AG,14.02.2017,9'585.00,300,Purchase
+1060,Novartis AG,14.02.2017,600'178.25,8'073,Sale
+1061,Vontobel Holding AG,14.02.2017,219'600.00,4'000,Sale
+1062,ams AG,14.02.2017,82'555.00,1'900,Purchase
+1063,u-blox Holding AG,14.02.2017,188'000.00,1'000,Sale
+1064,Leonteq AG,13.02.2017,96'150.00,3'000,Purchase
+1065,Leonteq AG,13.02.2017,32'195.00,1'000,Purchase
+1066,Ypsomed Holding AG,13.02.2017,2'735.60,14,Sale
+1067,Chocoladefabriken Lindt & Sprüngli AG,10.02.2017,154'000.00,28,Sale
+1068,Leonteq AG,10.02.2017,563'677.00,18'191,Purchase
+1069,Leonteq AG,10.02.2017,93'724.05,3'000,Purchase
+1070,Vontobel Holding AG,10.02.2017,166'639.86,3'000,Sale
+1071,Ypsomed Holding AG,10.02.2017,390'100.00,2'000,Sale
+1072,Altin AG,09.02.2017,52'900.00,2'300,Purchase
+1073,Edisun Power Europe AG,09.02.2017,2'440.00,50,Purchase
+1074,Vontobel Holding AG,09.02.2017,2'496'000.00,48'000,Sale
+1075,Bâloise Holding AG,08.02.2017,124'100.00,1'066,Purchase
+1076,Bâloise Holding AG,08.02.2017,40'911.00,357,Purchase
+1077,KTM Industries AG,08.02.2017,292'500.00,50'000,Sale
+1078,ams AG,08.02.2017,17'870.00,600,Sale
+1079,nebag ag,08.02.2017,50'330.34,4'858,Sale
+1080,Chocoladefabriken Lindt & Sprüngli AG,07.02.2017,1'094'035.00,200,Sale
+1081,ams AG,07.02.2017,399'957.00,31'665,Purchase
+1082,ams AG,07.02.2017,481'800.00,2'190'000,Purchase
+1083,ams AG,07.02.2017,480'700.00,2'090'000,Purchase
+1084,ams AG,07.02.2017,335'000.00,1'340'000,Purchase
+1085,ams AG,07.02.2017,321'200.00,1'460'000,Purchase
+1086,nebag ag,07.02.2017,13'196.25,1'275,Sale
+1087,u-blox Holding AG,07.02.2017,183'000.00,1'000,Sale
+1088,Edisun Power Europe AG,06.02.2017,4'156.50,85,Purchase
+1089,nebag ag,06.02.2017,4'140.00,400,Sale
+1090,Edisun Power Europe AG,02.02.2017,4'156.50,85,Purchase
+1091,Altin AG,01.02.2017,24'428.00,1'000,Purchase
+1092,Chocoladefabriken Lindt & Sprüngli AG,01.02.2017,337'385.00,61,Sale
+1093,Novartis AG,01.02.2017,2'028'600.00,28'000,Sale
+1094,Altin AG,31.01.2017,18'560.00,759,Purchase
+1095,Galenica AG,31.01.2017,169'971.90,203,Purchase
+1096,Galenica AG,31.01.2017,149'876.70,179,Purchase
+1097,Galenica AG,31.01.2017,129'781.50,155,Purchase
+1098,Galenica AG,31.01.2017,75'357.00,90,Purchase
+1099,Galenica AG,31.01.2017,20'095.20,24,Purchase
+1100,Logitech International S.A.,31.01.2017,21'104.08,1'260,Purchase
+1101,Logitech International S.A.,31.01.2017,13'583.66,811,Purchase
+1102,Altin AG,30.01.2017,34'140.00,1'392,Purchase
+1103,nebag ag,30.01.2017,86'612.50,8'450,Sale
+1104,KTM Industries AG,27.01.2017,285'233.24,50'000,Sale
+1105,u-blox Holding AG,27.01.2017,186'850.00,1'000,Sale
+1106,u-blox Holding AG,27.01.2017,29'585.71,499,Purchase
+1107,Novartis AG,26.01.2017,1'514'628.95,20'878,Sale
+1108,Sonova Holding AG,26.01.2017,129'000.00,1'000,Sale
+1109,nebag ag,26.01.2017,913.50,90,Sale
+1110,Chocoladefabriken Lindt & Sprüngli AG,25.01.2017,289'680.00,51,Sale
+1111,Hypothekarbank Lenzburg,25.01.2017,8'880.00,2,Sale
+1112,Bobst Group SA,24.01.2017,23'661.08,329,Sale
+1113,Bobst Group SA,24.01.2017,359.59,5,Sale
+1114,Edisun Power Europe AG,24.01.2017,7'211.75,148,Purchase
+1115,Novartis AG,24.01.2017,637'512.25,8'935,Purchase
+1116,Novartis AG,24.01.2017,248'855.91,3'435,Purchase
+1117,Bobst Group SA,23.01.2017,6'497.46,91,Sale
+1118,DUFRY AG,23.01.2017,3'080'317.91,22'000,Purchase
+1119,Kühne + Nagel International AG,23.01.2017,331'250.00,2'500,Purchase
+1120,SGS SA,23.01.2017,42'274.60,29'982,Sale
+1121,u-blox Holding AG,23.01.2017,12'724.50,499,Purchase
+1122,Bobst Group SA,20.01.2017,7'671.78,108,Sale
+1123,nebag ag,20.01.2017,60'981.20,6'008,Sale
+1124,Bobst Group SA,19.01.2017,10'766.70,151,Sale
+1125,Bobst Group SA,19.01.2017,142.60,2,Sale
+1126,Zuger Kantonalbank AG,19.01.2017,66'420.00,18,Purchase
+1127,Zuger Kantonalbank AG,19.01.2017,88'560.00,24,Purchase
+1128,Zuger Kantonalbank AG,19.01.2017,55'350.00,15,Purchase
+1129,u-blox Holding AG,19.01.2017,123'382.49,2'081,Purchase
+1130,Altin AG,18.01.2017,51'509.00,2'077,Purchase
+1131,Bobst Group SA,18.01.2017,5'288.03,75,Sale
+1132,Chocoladefabriken Lindt & Sprüngli AG,18.01.2017,2'000'340.00,350,Sale
+1133,Chocoladefabriken Lindt & Sprüngli AG,18.01.2017,114'600.00,20,Sale
+1134,Edisun Power Europe AG,18.01.2017,9'850.00,200,Purchase
+1135,Geberit AG,18.01.2017,94'544.30,482,Purchase
+1136,Bobst Group SA,17.01.2017,8'779.97,125,Sale
+1137,Bobst Group SA,17.01.2017,140.47,2,Sale
+1138,Edisun Power Europe AG,17.01.2017,10'989.00,220,Purchase
+1139,Kühne + Nagel International AG,17.01.2017,173'310.00,1'308,Purchase
+1140,nebag ag,17.01.2017,8'120.00,800,Sale
+1141,Bobst Group SA,16.01.2017,3'930.55,55,Sale
+1142,Dottikon ES Holding AG,16.01.2017,17'700.00,30,Sale
+1143,Bachem Holding AG,13.01.2017,522'062.30,5'000,Sale
+1144,Bobst Group SA,13.01.2017,6'239.66,87,Sale
+1145,Schaffner Holding AG,13.01.2017,90'200.00,1'000,Sale
+1146,Altin AG,12.01.2017,25.00,1,Purchase
+1147,Arundel AG,12.01.2017,237'515.50,27'943,Purchase
+1148,Bobst Group SA,12.01.2017,17'822.62,249,Sale
+1149,Bobst Group SA,12.01.2017,286.30,4,Sale
+1150,Compagnie Financière Richemont SA,12.01.2017,8'316'000.00,150'000,Sale
+1151,Schaffner Holding AG,12.01.2017,79'632.00,316,Purchase
+1152,Schaffner Holding AG,12.01.2017,33'768.00,134,Purchase
+1153,Schaffner Holding AG,12.01.2017,33'012.00,131,Purchase
+1154,Schaffner Holding AG,12.01.2017,30'012.00,131,Purchase
+1155,Ypsomed Holding AG,12.01.2017,934'571.54,5'410,Purchase
+1156,Altin AG,11.01.2017,246'654.00,9'830,Purchase
+1157,Bobst Group SA,11.01.2017,36'544.17,513,Sale
+1158,Bobst Group SA,11.01.2017,641.12,9,Sale
+1159,Edisun Power Europe AG,11.01.2017,5'139.75,105,Purchase
+1160,Altin AG,10.01.2017,1'026.00,41,Purchase
+1161,Bobst Group SA,10.01.2017,11'053.48,153,Sale
+1162,Compagnie Financière Tradition S.A.,10.01.2017,12'500.00,5'000,Purchase
+1163,nebag ag,10.01.2017,12'261.40,1'214,Sale
+1164,Bobst Group SA,09.01.2017,19'045.83,267,Sale
+1165,Bobst Group SA,09.01.2017,285.33,4,Sale
+1166,Dottikon ES Holding AG,09.01.2017,15'270.00,30,Sale
+1167,nebag ag,09.01.2017,10'100.00,1'000,Sale
+1168,Bobst Group SA,06.01.2017,20'535.74,292,Sale
+1169,Bobst Group SA,06.01.2017,351.63,5,Sale
+1170,Partners Group Holding AG,06.01.2017,27'269.94,57,Sale
+1171,Altin AG,05.01.2017,589'042.00,23'703,Purchase
+1172,Bobst Group SA,05.01.2017,792.22,11,Sale
+1173,Partners Group Holding AG,05.01.2017,27'178.17,57,Sale
+1174,nebag ag,05.01.2017,17'820.00,1'800,Purchase
+1175,Partners Group Holding AG,04.01.2017,27'428.97,57,Sale
+1176,Clariant AG,03.01.2017,535'537.00,30'000,Purchase
+1177,LEM Holding SA,03.01.2017,47'620.00,50,Purchase
+1178,Partners Group Holding AG,03.01.2017,27'446.64,57,Sale
