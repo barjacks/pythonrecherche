@@ -11,7 +11,7 @@ bar = progressbar.ProgressBar()
 lst = []
 lst_pass = []
 
-for elem,i in zip(range(1,13000), bar((range(1,13000)))):
+for elem,i in zip(range(1697,13000), bar((range(1697,13000)))):
 
     url = "https://www.zueriwieneu.ch/report/" + str(elem)
     response = requests.get(url)
