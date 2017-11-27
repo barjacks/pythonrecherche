@@ -62,7 +62,7 @@
    - ```ssh -i ~/.ssh/do-droplet root@DEINEIP```
    - Den Scraper auf den Server spielen, dabei mit Deiner Commandline
    im Ordner auf Deinem Computer sein: ```scp -i ~/.ssh/do-droplet DAPHNESCRAPER.py root@DEINEIP:~/```
-   - Vom Server nehmen: ```scp -i ~/.ssh/do-droplet root@46.101.231.162:~/daphne.csv .```
+   - Vom Server nehmen: ```scp -i ~/.ssh/do-droplet root@DEINEIP:~/daphne.csv .```
    - Den Scraper startet: ```python3 DAPHNESCRAPER.py```
    - Das geht ziemlich lange. Und wenn unsere Verbindung zum Server abbricht,
    bekommen wir Probleme. Also, arbeiten wir mit tmux:
