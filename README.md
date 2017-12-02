@@ -31,9 +31,9 @@ vertiefen können.
 07. Mehr Scraper-Libraries, um jede Online-Datenbank scrapen zu können
 08. Pandas I, Scraper-Übungen
 09. Pandas II, Scraper-Übungen
-10. BeautifulSoup, Server, Pandas
-11. Regular Expressions, Stackoverflow, Selenium-Übungen
-12. Scraper-Übungen, Natural Language Processing, Jellyfish
+10. BeautifulSoup, Server
+11. Pandas plotten, Regular Expressions, Stackoverflow, Selenium-Übungen
+12. Selenium-Übungen, Natural Language Processing, Jellyfish
 
 (Eine Einführung in scikit learn und machine learning)
 
